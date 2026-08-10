@@ -24,11 +24,14 @@ export default function Header() {
           <DesktopNav />
           <a
             href="tel:+56990511579"
-            className="inline-flex items-center gap-[7px] rounded-full bg-brand-accent px-4 py-2 font-heading text-[12px] font-bold text-accentDark transition hover:brightness-95 md:px-[22px] md:py-[10px] md:text-[13px]"
+            className="group inline-flex items-center gap-[7px] rounded-full bg-brand-accent px-4 py-2 font-heading text-[12px] font-bold text-accentDark transition hover:brightness-95 md:px-[22px] md:py-[10px] md:text-[13px]"
           >
             <PhoneIcon className="size-4" />
             <span className="hidden md:inline">+56 9 90511579</span>
-            <span aria-hidden="true" className="text-base leading-none">
+            <span
+              aria-hidden="true"
+              className="inline-block text-base leading-none transition-transform duration-200 group-hover:translate-x-1"
+            >
               →
             </span>
           </a>

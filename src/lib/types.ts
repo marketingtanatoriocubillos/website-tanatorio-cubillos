@@ -25,3 +25,11 @@ export interface FooterColumn {
   links?: NavLink[];
   items?: string[];
 }
+
+export interface ContactFormPayload {
+  nombre: string;
+  telefono: string;
+  motivo: string;
+  origen: string;
+  website: string;
+}

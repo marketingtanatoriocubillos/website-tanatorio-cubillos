@@ -1,6 +1,6 @@
 # PROGRESS.md — Estado del proyecto
 
-Última actualización: [actualizar fecha cada vez que edites este archivo]
+Última actualización: 2026-08-10
 
 Este archivo es el "resumen ejecutivo" del proyecto. Pégalo al inicio de cualquier chat nuevo
 (Claude o Codex) para que tenga contexto inmediato de qué está hecho, qué falta, y qué
@@ -37,18 +37,31 @@ tapado por otros elementos (fix: Portal), z-index de header/drawer/cta-bar, favi
 - `ServiciosSection.tsx` — 6 cards de servicios (1 destacada + 5 secundarias), hover sin cambio
   de color en el borde (decisión de diseño, difiere del original a propósito)
 - `UrgentCtaBand.tsx` — banda azul angosta "Atención Inmediata 24/7"
+- `PlanesSection.tsx` — sección con tabs (Atención Inmediata / Venta Futuro), selector animado,
+  grid de 9 cards de planes + card destacada (Plan Presidencial)
+- `PrevisionSection.tsx` — bloque de beneficios + timeline "Cómo funciona"
+- `DiferenciadoresSection.tsx` — 4 diferenciadores, incluyendo `FleetIcon` y `CrematoriumIcon`
+  como íconos SVG complejos reutilizables
+- `NosotrosSection.tsx` — bloque "Quiénes somos" con estadísticas, CTA e `ImageCarousel`
+  reutilizable con autoplay (`autoPlayStartDelay={0}`)
+- `TestimoniosCarousel.tsx` — carrusel deslizante de 6 testimonios (3 desktop / 1 mobile),
+  autoplay con delay inicial de 1000ms
+- `CrematorioSection.tsx` — bloque promocional del crematorio con `ImageCarousel`
+- `ExhumacionPromoSection.tsx` — promo de cremación para exhumación con CTA de llamada y WhatsApp
+- `SucursalesSection.tsx` — grid de 4 sucursales con badges, datos de contacto y links a Google Maps
+- `ContactoSection.tsx` — bloque de contacto del Home con CTA inmediata y formulario funcional
+  que envía a `/api/contacto`
+- `ImageCarousel.tsx` — componente UI reutilizable para carruseles de imágenes, con soporte de
+  autoplay opcional (`autoPlay`, `autoPlayInterval`, `autoPlayStartDelay`)
+- `src/app/api/contacto/route.ts` — API Route que reenvía formularios a Google Sheets
+  (Apps Script) usando `GOOGLE_SHEETS_WEBHOOK_URL`
 - Animación de flecha (`group-hover:translate-x-1`) aplicada a todos los botones tipo `btn-arrow`
 
 ## 🚧 En progreso
 
-- `PlanesSection.tsx` — sección con tabs (Atención Inmediata / Venta Futuro), selector animado,
-  grid de 9 cards de planes + card destacada (Plan Presidencial). **Último prompt enviado a
-  Codex, pendiente de revisión visual.**
-
 ## ⏳ Pendiente (Home)
 
-Falta revisar el HTML original más allá de la sección Planes para confirmar qué sigue (sección
-de Sucursales, testimonios, etc. — pendiente de mapear).
+Falta revisar el HTML original más allá de la sección Sucursales para confirmar qué sigue.
 
 ## ⏳ Pendiente (páginas interiores)
 
