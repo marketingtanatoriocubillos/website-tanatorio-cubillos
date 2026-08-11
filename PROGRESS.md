@@ -71,6 +71,21 @@ tapado por otros elementos (fix: Portal), z-index de header/drawer/cta-bar, favi
 - Varios `ImageCarousel` con autoplay escalonado (`0ms`, `1000ms`, `2000ms`, etc.) para evitar
   que todos avancen sincronizados
 
+### Página interior `/crematorio`
+- `src/app/crematorio/page.tsx` — página completa del crematorio
+- `src/components/crematorio/` — secciones modulares del hero, proceso, diferenciadores, ánforas,
+  exhumación, CTA de Plan Huella y ubicación/contacto
+- `src/components/crematorio/crematorioData.tsx` — arrays tipados para stats, checks, pasos,
+  diferenciadores y cards repetidas
+
+### Página interior `/nosotros`
+- `src/app/nosotros/page.tsx` — página completa de nosotros
+- `src/components/nosotros/` — hero, barra de stats, historia, valores, infraestructura, equipo y
+  CTA final en componentes modulares
+- `src/components/nosotros/nosotrosData.tsx` — arrays tipados para stats, valores e infraestructura
+- Nota pendiente: Historia y Equipo quedaron con placeholders internos controlados hasta que el
+  cliente entregue más texto y fotos reales
+
 ## 🚧 En progreso
 
 Nada en curso.
@@ -96,7 +111,7 @@ Todas las secciones del Home ya están migradas:
 ## ⏳ Pendiente (páginas interiores)
 
 Faltan por migrar:
-- `/crematorio`, `/nosotros`, `/contacto`
+- `/contacto`
 - `/planes/[slug]` y `/planes-inmediatos/[slug]` — 9 slugs cada una (páginas dinámicas)
 - `/planes` y `/planes-inmediatos` — landings índice de cada categoría (el archivo de
   `_legacy-reference/` para la de "Previsión Funeraria" ya está identificado)
