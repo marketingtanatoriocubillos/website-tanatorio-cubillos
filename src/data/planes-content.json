@@ -1,0 +1,2218 @@
+{
+  "plans": {
+    "homenaje-integral": {
+      "name": "Homenaje Integral",
+      "tagline": "Servicio funerario con cremación para proteger anticipadamente a su familia.",
+      "galleryLabel": "Ataúd incluido",
+      "galleryTitle": "Modelo Plana Esperanza",
+      "galleryImages": [
+        "/assets/planes/homenaje-integral-ataud-01.png",
+        "/assets/planes/homenaje-integral-ataud-02.png",
+        "/assets/planes/homenaje-integral-ataud-03.png",
+        "/assets/planes/homenaje-integral-ataud-04.png"
+      ],
+      "specs": [
+        {
+          "label": "Modelo",
+          "value": "Plana Esperanza"
+        },
+        {
+          "label": "Madera",
+          "value": "Pino Terciado"
+        },
+        {
+          "label": "Terminado",
+          "value": "Lisa o Tallada"
+        },
+        {
+          "label": "Ánfora",
+          "value": "Estándar"
+        }
+      ],
+      "services": [
+        {
+          "title": "Asesoramiento 24/7",
+          "description": "Acompañamiento y orientación permanente para la familia durante todo el proceso."
+        },
+        {
+          "title": "Tramitación Integral",
+          "description": "Gestionamos todos los trámites legales y administrativos en su nombre."
+        },
+        {
+          "title": "Traslado del cuerpo",
+          "description": "Retiro y traslado con las condiciones de dignidad y cuidado que su familia merece."
+        },
+        {
+          "title": "Preparación Tanatoestética",
+          "description": "Preparación del cuerpo para que la familia pueda despedirse con paz y serenidad."
+        },
+        {
+          "title": "Sala de Velación",
+          "description": "Instalaciones cómodas y privadas para que la familia pueda despedirse con tranquilidad."
+        },
+        {
+          "title": "Servicio de Capilla a Domicilio",
+          "description": "Montaje de capilla en el hogar para quienes prefieren velar a su ser querido en casa."
+        },
+        {
+          "title": "Cafetería",
+          "description": "Atención con café, té y acompañamiento durante el velorio."
+        },
+        {
+          "title": "Servicio de Condolencias Virtuales (Tellmebye)",
+          "description": "Plataforma digital para que amigos y familiares dejen sus mensajes de manera virtual. Disponible en salas velatorias en Tanatorio Bilbao y Funeraria de Serrano."
+        },
+        {
+          "title": "Portarretrato y Cinta Inmemorial",
+          "description": "Un recuerdo tangible para preservar la memoria del ser querido."
+        },
+        {
+          "title": "Libro y Tarjetas de Condolencias",
+          "description": "Registro de los mensajes dejados por quienes acompañaron a la familia."
+        },
+        {
+          "title": "Traslado en Carrozas Premium al Funeral",
+          "description": "Flota de carrozas de último modelo para un traslado digno y respetuoso."
+        },
+        {
+          "title": "Vehículo de Acompañamiento",
+          "description": "Transporte para la familia durante el cortejo fúnebre en Iquique y Alto Hospicio. Solo cementerios locales, excluye traslado al crematorio."
+        },
+        {
+          "title": "Proceso de Cremación",
+          "description": "Realizado con dignidad y respeto en nuestras propias instalaciones."
+        }
+      ],
+      "steps": [
+        {
+          "step": 1,
+          "title": "Cotiza y consulta",
+          "description": "Llámanos o escríbenos por WhatsApp. Un ejecutivo te explica el plan, resuelve tus dudas y te entrega toda la información sin compromiso."
+        },
+        {
+          "step": 2,
+          "title": "Firma el contrato",
+          "description": "Elegimos juntos la modalidad de pago que más te acomoda. El contrato queda registrado y el plan activado desde el primer día."
+        },
+        {
+          "step": 3,
+          "title": "Tu familia queda protegida",
+          "description": "Cuando llegue el momento, solo necesitan llamar. Nosotros nos encargamos de todo, con el precio pactado y sin trámites adicionales para tu familia."
+        }
+      ],
+      "faq": [
+        {
+          "question": "¿El Plan Homenaje Integral aplica para atención inmediata y venta futuro?",
+          "answer": "Sí, el Plan Homenaje Integral está disponible tanto para atención inmediata (cuando ya ocurrió el fallecimiento) como para venta futuro (contratándolo de forma anticipada con condiciones especiales)."
+        },
+        {
+          "question": "¿Tienen financiamiento disponible?",
+          "answer": "Sí, contamos con opciones de financiamiento para la venta futuro. Consúltenos directamente al +56 9 90511579 para conocer los planes de pago disponibles según su situación."
+        },
+        {
+          "question": "¿El servicio cubre traslados fuera de Iquique?",
+          "answer": "El Plan Homenaje incluye traslado local. Para traslados nacionales e internacionales contamos con servicios adicionales. Consúltenos y lo orientamos según sus necesidades."
+        },
+        {
+          "question": "¿Cuánto tiempo tarda en activarse el servicio?",
+          "answer": "Nuestra atención es inmediata las 24 horas del día, los 365 días del año. Al llamar al +56 9 90511579 un ejecutivo responde de inmediato y coordina todo desde el primer momento."
+        },
+        {
+          "question": "¿El plan es transferible a un familiar?",
+          "answer": "Sí, el plan es 100% transferible a familiares directos (padres, hermanos, cónyuge e hijos). Consúltanos para coordinar el cambio de titular y dejar todo correctamente registrado."
+        },
+        {
+          "question": "¿Puedo cambiar o mejorar mi plan después de contratarlo?",
+          "answer": "Sí, es posible mejorar el plan contratado. La diferencia de valor se ajusta según las condiciones vigentes al momento del cambio. Llámenos para revisar tu situación particular."
+        },
+        {
+          "question": "¿Qué pasa si fallezco fuera de Iquique?",
+          "answer": "Contamos con coordinación para traslados desde otras ciudades y regiones del país. Los costos de traslado a larga distancia se evalúan caso a caso. Consúltenos para más detalles."
+        },
+        {
+          "question": "¿El precio del plan sube con el tiempo?",
+          "answer": "El valor del plan queda fijado al momento de la contratación. Una de las ventajas de la previsión funeraria es precisamente esa: proteges a tu familia del alza de precios futura."
+        }
+      ],
+      "coverage": [
+        "Iquique",
+        "Alto Hospicio",
+        "Pozo Almonte",
+        "Huara",
+        "Pica",
+        "Camiña"
+      ],
+      "financing": [
+        {
+          "percent": "7%",
+          "label": "Pago contado",
+          "price": "$2.036.700",
+          "tooltip": "Efectivo o transferencia",
+          "highlighted": true
+        },
+        {
+          "percent": "5%",
+          "label": "Tarjeta débito",
+          "price": "$2.080.500",
+          "highlighted": false
+        },
+        {
+          "percent": "3%",
+          "label": "Tarjeta crédito",
+          "price": "$2.124.300",
+          "highlighted": false
+        }
+      ],
+      "cuotas": [
+        {
+          "cuotas": 3,
+          "monto": "$710.000"
+        },
+        {
+          "cuotas": 6,
+          "monto": "$355.000"
+        },
+        {
+          "cuotas": 9,
+          "monto": "$236.667"
+        },
+        {
+          "cuotas": 12,
+          "monto": "$177.500"
+        },
+        {
+          "cuotas": 18,
+          "monto": "$118.333"
+        },
+        {
+          "cuotas": 24,
+          "monto": "$88.750"
+        },
+        {
+          "cuotas": 30,
+          "monto": "$71.000"
+        },
+        {
+          "cuotas": 36,
+          "monto": "$59.167"
+        }
+      ],
+      "locationTitle": "Lugar de Velación",
+      "locations": [
+        {
+          "name": "Tanatorio Cubillos",
+          "address": "Caleta Río Seco 2155, esq. Francisco Bilbao"
+        },
+        {
+          "name": "Funeraria Cubillos",
+          "address": "Serrano 999, esq. Juan Martínez"
+        }
+      ],
+      "otherPlans": [
+        {
+          "slug": "huella",
+          "name": "Plan Huella",
+          "description": "Cremación digna con atención integral y acompañamiento cercano."
+        },
+        {
+          "slug": "tributo",
+          "name": "Plan Tributo",
+          "description": "Cobertura esencial con traslado, sala de velación y vehículo de acompañamiento."
+        },
+        {
+          "slug": "recuerdo",
+          "name": "Plan Recuerdo",
+          "description": "Protección completa con un plan accesible y bien equipado."
+        },
+        {
+          "slug": "recuerdo-especial",
+          "name": "Plan Recuerdo Especial",
+          "description": "Una alternativa especial y accesible para honrar su memoria."
+        },
+        {
+          "slug": "memoria",
+          "name": "Plan Memoria",
+          "description": "Un plan completo para quienes quieren dejar todo resuelto."
+        },
+        {
+          "slug": "legado",
+          "name": "Plan Legado",
+          "description": "Servicio premium con atención personalizada."
+        },
+        {
+          "slug": "honor",
+          "name": "Plan Honor",
+          "description": "Nuestra propuesta de mayor distinción y cobertura."
+        },
+        {
+          "slug": "presidencial",
+          "name": "Plan Presidencial",
+          "description": "Nuestra propuesta de máxima distinción, cobertura y exclusividad."
+        }
+      ]
+    },
+    "honor": {
+      "name": "Honor",
+      "tagline": "Un plan completo y distinguido para proteger a su familia con todo incluido.",
+      "galleryLabel": "Ataúd incluido",
+      "galleryTitle": "Modelo Lincoln",
+      "galleryImages": [
+        "/assets/planes/honor-ataud-01.png",
+        "/assets/planes/honor-ataud-02.png",
+        "/assets/planes/honor-ataud-03.png",
+        "/assets/planes/honor-ataud-04.png",
+        "/assets/planes/honor-ataud-05.png"
+      ],
+      "specs": [
+        {
+          "label": "Modelo",
+          "value": "Lincoln"
+        },
+        {
+          "label": "Madera",
+          "value": "Castaño o Pino Oregón"
+        },
+        {
+          "label": "Terminado",
+          "value": "Lisa o Tallada"
+        }
+      ],
+      "services": [
+        {
+          "title": "Asesoramiento 24/7",
+          "description": "Acompañamiento y orientación permanente para la familia durante todo el proceso."
+        },
+        {
+          "title": "Tramitación Integral",
+          "description": "Gestionamos todos los trámites legales y administrativos en su nombre."
+        },
+        {
+          "title": "Traslado del cuerpo",
+          "description": "Retiro y traslado con las condiciones de dignidad y cuidado que su familia merece."
+        },
+        {
+          "title": "Preparación Tanatoestética",
+          "description": "Preparación del cuerpo para que la familia pueda despedirse con paz y serenidad."
+        },
+        {
+          "title": "Sala de Velación",
+          "description": "Instalaciones cómodas y privadas para que la familia pueda despedirse con tranquilidad."
+        },
+        {
+          "title": "Servicio de Capilla a Domicilio",
+          "description": "Montaje de capilla en el hogar para quienes prefieren velar a su ser querido en casa."
+        },
+        {
+          "title": "Cafetería",
+          "description": "Atención con café, té y acompañamiento durante el velorio."
+        },
+        {
+          "title": "Servicio de Condolencias Virtuales (Tellmebye)",
+          "description": "Plataforma digital para que amigos y familiares dejen sus mensajes de manera virtual. Disponible en salas velatorias en Tanatorio Bilbao y Funeraria de Serrano."
+        },
+        {
+          "title": "Portarretrato y Cinta Inmemorial",
+          "description": "Un recuerdo tangible para preservar la memoria del ser querido."
+        },
+        {
+          "title": "Libro y Tarjetas de Condolencias",
+          "description": "Registro de los mensajes dejados por quienes acompañaron a la familia."
+        },
+        {
+          "title": "Traslado en Carrozas Premium al Funeral",
+          "description": "Flota de carrozas de último modelo para un traslado digno y respetuoso."
+        },
+        {
+          "title": "Vehículo de Acompañamiento",
+          "description": "Transporte para la familia durante el cortejo fúnebre en Iquique y Alto Hospicio. Solo cementerios locales, excluye traslado al crematorio."
+        }
+      ],
+      "steps": [
+        {
+          "step": 1,
+          "title": "Cotiza y consulta",
+          "description": "Llámanos o escríbenos por WhatsApp. Un ejecutivo te explica el plan, resuelve tus dudas y te entrega toda la información sin compromiso."
+        },
+        {
+          "step": 2,
+          "title": "Firma el contrato",
+          "description": "Elegimos juntos la modalidad de pago que más te acomoda. El contrato queda registrado y el plan activado desde el primer día."
+        },
+        {
+          "step": 3,
+          "title": "Tu familia queda protegida",
+          "description": "Cuando llegue el momento, solo necesitan llamar. Nosotros nos encargamos de todo, con el precio pactado y sin trámites adicionales para tu familia."
+        }
+      ],
+      "faq": [
+        {
+          "question": "¿El Plan Honor aplica para atención inmediata y venta futuro?",
+          "answer": "Sí, el Plan Honor está disponible tanto para atención inmediata (cuando ya ocurrió el fallecimiento) como para venta futuro (contratándolo de forma anticipada con condiciones especiales)."
+        },
+        {
+          "question": "¿Tienen financiamiento disponible?",
+          "answer": "Sí, contamos con opciones de financiamiento para la venta futuro. Consúltenos directamente al +56 9 90511579 para conocer los planes de pago disponibles según su situación."
+        },
+        {
+          "question": "¿El servicio cubre traslados fuera de Iquique?",
+          "answer": "El Plan Honor incluye traslado local. Para traslados nacionales e internacionales contamos con servicios adicionales. Consúltenos y lo orientamos según sus necesidades."
+        },
+        {
+          "question": "¿Cuánto tiempo tarda en activarse el servicio?",
+          "answer": "Nuestra atención es inmediata las 24 horas del día, los 365 días del año. Al llamar al +56 9 90511579 un ejecutivo responde de inmediato y coordina todo desde el primer momento."
+        },
+        {
+          "question": "¿El plan es transferible a un familiar?",
+          "answer": "Sí, el plan es 100% transferible a familiares directos (padres, hermanos, cónyuge e hijos). Consúltanos para coordinar el cambio de titular y dejar todo correctamente registrado."
+        },
+        {
+          "question": "¿Puedo cambiar o mejorar mi plan después de contratarlo?",
+          "answer": "Sí, es posible mejorar el plan contratado. La diferencia de valor se ajusta según las condiciones vigentes al momento del cambio. Llámenos para revisar tu situación particular."
+        },
+        {
+          "question": "¿Qué pasa si fallezco fuera de Iquique?",
+          "answer": "Contamos con coordinación para traslados desde otras ciudades y regiones del país. Los costos de traslado a larga distancia se evalúan caso a caso. Consúltenos para más detalles."
+        },
+        {
+          "question": "¿El precio del plan sube con el tiempo?",
+          "answer": "El valor del plan queda fijado al momento de la contratación. Una de las ventajas de la previsión funeraria es precisamente esa: proteges a tu familia del alza de precios futura."
+        }
+      ],
+      "coverage": [
+        "Iquique",
+        "Alto Hospicio",
+        "Pozo Almonte",
+        "Huara",
+        "Pica",
+        "Camiña"
+      ],
+      "financing": [
+        {
+          "percent": "7%",
+          "label": "Pago contado",
+          "price": "$3.394.500",
+          "tooltip": "Efectivo o transferencia",
+          "highlighted": true
+        },
+        {
+          "percent": "5%",
+          "label": "Tarjeta débito",
+          "price": "$3.467.500",
+          "highlighted": false
+        },
+        {
+          "percent": "3%",
+          "label": "Tarjeta crédito",
+          "price": "$3.540.500",
+          "highlighted": false
+        }
+      ],
+      "cuotas": [
+        {
+          "cuotas": 3,
+          "monto": "$1.196.667"
+        },
+        {
+          "cuotas": 6,
+          "monto": "$598.333"
+        },
+        {
+          "cuotas": 9,
+          "monto": "$398.889"
+        },
+        {
+          "cuotas": 12,
+          "monto": "$299.167"
+        },
+        {
+          "cuotas": 18,
+          "monto": "$199.444"
+        },
+        {
+          "cuotas": 24,
+          "monto": "$149.583"
+        },
+        {
+          "cuotas": 30,
+          "monto": "$119.667"
+        },
+        {
+          "cuotas": 36,
+          "monto": "$99.722"
+        }
+      ],
+      "locationTitle": "Lugar de Velación",
+      "locations": [
+        {
+          "name": "Tanatorio Cubillos",
+          "address": "Caleta Río Seco 2155, esq. Francisco Bilbao"
+        },
+        {
+          "name": "Funeraria Cubillos",
+          "address": "Serrano 999, esq. Juan Martínez"
+        }
+      ],
+      "otherPlans": [
+        {
+          "slug": "homenaje-integral",
+          "name": "Plan Homenaje Integral",
+          "description": "Equilibrio entre cobertura y valor para su familia."
+        },
+        {
+          "slug": "huella",
+          "name": "Plan Huella",
+          "description": "Cremación digna con atención integral y acompañamiento cercano."
+        },
+        {
+          "slug": "tributo",
+          "name": "Plan Tributo",
+          "description": "Cobertura esencial con traslado, sala de velación y vehículo de acompañamiento."
+        },
+        {
+          "slug": "recuerdo",
+          "name": "Plan Recuerdo",
+          "description": "Protección completa con un plan accesible y bien equipado."
+        },
+        {
+          "slug": "recuerdo-especial",
+          "name": "Plan Recuerdo Especial",
+          "description": "Una alternativa especial y accesible para honrar su memoria."
+        },
+        {
+          "slug": "memoria",
+          "name": "Plan Memoria",
+          "description": "Un plan completo para quienes quieren dejar todo resuelto."
+        },
+        {
+          "slug": "legado",
+          "name": "Plan Legado",
+          "description": "Servicio premium con atención personalizada."
+        },
+        {
+          "slug": "presidencial",
+          "name": "Plan Presidencial",
+          "description": "Nuestra propuesta de máxima distinción, cobertura y exclusividad."
+        }
+      ]
+    },
+    "huella": {
+      "name": "Huella",
+      "tagline": "Cremación digna con todos los servicios esenciales incluidos para acompañar a su familia.",
+      "galleryLabel": "Nuestro Crematorio",
+      "galleryTitle": "Crematorio Cubillos — Pozo Almonte",
+      "galleryImages": [
+        "/assets/planes/huella-crematorio-01.png",
+        "/assets/planes/huella-crematorio-02.png",
+        "/assets/planes/huella-crematorio-03.png",
+        "/assets/planes/huella-crematorio-04.png",
+        "/assets/planes/huella-crematorio-05.png",
+        "/assets/planes/huella-crematorio-06.png"
+      ],
+      "specs": [],
+      "services": [
+        {
+          "title": "Asesoramiento 24/7",
+          "description": "Acompañamiento y orientación permanente para la familia durante todo el proceso."
+        },
+        {
+          "title": "Tramitación Integral",
+          "description": "Gestionamos todos los trámites legales y administrativos en su nombre."
+        },
+        {
+          "title": "Proceso de Cremación",
+          "description": "Realizado con dignidad y respeto en nuestras instalaciones propias."
+        }
+      ],
+      "steps": [
+        {
+          "step": 1,
+          "title": "Cotiza y consulta",
+          "description": "Llámanos o escríbenos por WhatsApp. Un ejecutivo te explica el plan, resuelve tus dudas y te entrega toda la información sin compromiso."
+        },
+        {
+          "step": 2,
+          "title": "Firma el contrato",
+          "description": "Elegimos juntos la modalidad de pago que más te acomoda. El contrato queda registrado y el plan activado desde el primer día."
+        },
+        {
+          "step": 3,
+          "title": "Tu familia queda protegida",
+          "description": "Cuando llegue el momento, solo necesitan llamar. Nosotros nos encargamos de todo, con el precio pactado y sin trámites adicionales para tu familia."
+        }
+      ],
+      "faq": [
+        {
+          "question": "¿El Plan Huella aplica para atención inmediata y venta futuro?",
+          "answer": "Sí, el Plan Huella está disponible tanto para atención inmediata (cuando ya ocurrió el fallecimiento) como para venta futuro (contratándolo de forma anticipada con condiciones especiales)."
+        },
+        {
+          "question": "¿Tienen financiamiento disponible?",
+          "answer": "Sí, contamos con opciones de financiamiento para la venta futuro. Consúltenos directamente al +56 9 90511579 para conocer los planes de pago disponibles según su situación."
+        },
+        {
+          "question": "¿El servicio cubre traslados fuera de Iquique?",
+          "answer": "El Plan Huella incluye traslado local. Para traslados nacionales e internacionales contamos con servicios adicionales. Consúltenos y lo orientamos según sus necesidades."
+        },
+        {
+          "question": "¿Cuánto tiempo tarda en activarse el servicio?",
+          "answer": "Nuestra atención es inmediata las 24 horas del día, los 365 días del año. Al llamar al +56 9 90511579 un ejecutivo responde de inmediato y coordina todo desde el primer momento."
+        },
+        {
+          "question": "¿El plan es transferible a un familiar?",
+          "answer": "Sí, el plan es 100% transferible a familiares directos (padres, hermanos, cónyuge e hijos). Consúltanos para coordinar el cambio de titular y dejar todo correctamente registrado."
+        },
+        {
+          "question": "¿Puedo cambiar o mejorar mi plan después de contratarlo?",
+          "answer": "Sí, es posible mejorar el plan contratado. La diferencia de valor se ajusta según las condiciones vigentes al momento del cambio. Llámenos para revisar tu situación particular."
+        },
+        {
+          "question": "¿Qué pasa si fallezco fuera de Iquique?",
+          "answer": "Contamos con coordinación para traslados desde otras ciudades y regiones del país. Los costos de traslado a larga distancia se evalúan caso a caso. Consúltenos para más detalles."
+        },
+        {
+          "question": "¿El precio del plan sube con el tiempo?",
+          "answer": "El valor del plan queda fijado al momento de la contratación. Una de las ventajas de la previsión funeraria es precisamente esa: proteges a tu familia del alza de precios futura."
+        }
+      ],
+      "coverage": [
+        "Iquique",
+        "Alto Hospicio",
+        "Pozo Almonte",
+        "Huara",
+        "Pica",
+        "Camiña"
+      ],
+      "financing": [
+        {
+          "percent": "7%",
+          "label": "Pago contado",
+          "price": "$1.199.700",
+          "tooltip": "Efectivo o transferencia",
+          "highlighted": true
+        },
+        {
+          "percent": "5%",
+          "label": "Tarjeta débito",
+          "price": "$1.225.500",
+          "highlighted": false
+        },
+        {
+          "percent": "3%",
+          "label": "Tarjeta crédito",
+          "price": "$1.251.300",
+          "highlighted": false
+        }
+      ],
+      "cuotas": [
+        {
+          "cuotas": 3,
+          "monto": "$410.000"
+        },
+        {
+          "cuotas": 6,
+          "monto": "$205.000"
+        },
+        {
+          "cuotas": 9,
+          "monto": "$136.667"
+        },
+        {
+          "cuotas": 12,
+          "monto": "$102.500"
+        },
+        {
+          "cuotas": 18,
+          "monto": "$68.333"
+        },
+        {
+          "cuotas": 24,
+          "monto": "$51.250"
+        },
+        {
+          "cuotas": 30,
+          "monto": "$41.000"
+        },
+        {
+          "cuotas": 36,
+          "monto": "$34.167"
+        }
+      ],
+      "locationTitle": null,
+      "locations": [],
+      "otherPlans": [
+        {
+          "slug": "homenaje-integral",
+          "name": "Plan Homenaje Integral",
+          "description": "Equilibrio entre cobertura y valor para su familia."
+        },
+        {
+          "slug": "tributo",
+          "name": "Plan Tributo",
+          "description": "Cobertura esencial con traslado, sala de velación y vehículo de acompañamiento."
+        },
+        {
+          "slug": "recuerdo",
+          "name": "Plan Recuerdo",
+          "description": "Protección completa con un plan accesible y bien equipado."
+        },
+        {
+          "slug": "recuerdo-especial",
+          "name": "Plan Recuerdo Especial",
+          "description": "Una alternativa especial y accesible para honrar su memoria."
+        },
+        {
+          "slug": "memoria",
+          "name": "Plan Memoria",
+          "description": "Un plan completo para quienes quieren dejar todo resuelto."
+        },
+        {
+          "slug": "legado",
+          "name": "Plan Legado",
+          "description": "Servicio premium con atención personalizada."
+        },
+        {
+          "slug": "honor",
+          "name": "Plan Honor",
+          "description": "Nuestra propuesta de mayor distinción y cobertura."
+        },
+        {
+          "slug": "presidencial",
+          "name": "Plan Presidencial",
+          "description": "Nuestra propuesta de máxima distinción, cobertura y exclusividad."
+        }
+      ]
+    },
+    "legado": {
+      "name": "Legado",
+      "tagline": "Servicio premium con atención personalizada y todo lo que su familia necesita.",
+      "galleryLabel": "Ataúd incluido",
+      "galleryTitle": "Modelo Victor Española",
+      "galleryImages": [
+        "/assets/planes/legado-ataud-01.png",
+        "/assets/planes/legado-ataud-02.png",
+        "/assets/planes/legado-ataud-03.png"
+      ],
+      "specs": [
+        {
+          "label": "Modelo",
+          "value": "Victor Española"
+        },
+        {
+          "label": "Madera",
+          "value": "Pino Sólida"
+        },
+        {
+          "label": "Terminado",
+          "value": "Lisa o Tallada"
+        }
+      ],
+      "services": [
+        {
+          "title": "Asesoramiento 24/7",
+          "description": "Acompañamiento y orientación permanente para la familia durante todo el proceso."
+        },
+        {
+          "title": "Tramitación Integral",
+          "description": "Gestionamos todos los trámites legales y administrativos en su nombre."
+        },
+        {
+          "title": "Traslado del cuerpo",
+          "description": "Retiro y traslado con las condiciones de dignidad y cuidado que su familia merece."
+        },
+        {
+          "title": "Preparación Tanatoestética",
+          "description": "Preparación del cuerpo para que la familia pueda despedirse con paz y serenidad."
+        },
+        {
+          "title": "Sala de Velación",
+          "description": "Instalaciones cómodas y privadas para que la familia pueda despedirse con tranquilidad."
+        },
+        {
+          "title": "Servicio de Capilla a Domicilio",
+          "description": "Montaje de capilla en el hogar para quienes prefieren velar a su ser querido en casa."
+        },
+        {
+          "title": "Cafetería",
+          "description": "Atención con café, té y acompañamiento durante el velorio."
+        },
+        {
+          "title": "Servicio de Condolencias Virtuales (Tellmebye)",
+          "description": "Plataforma digital para que amigos y familiares dejen sus mensajes de manera virtual. Disponible en salas velatorias en Tanatorio Bilbao y Funeraria de Serrano."
+        },
+        {
+          "title": "Portarretrato y Cinta Inmemorial",
+          "description": "Un recuerdo tangible para preservar la memoria del ser querido."
+        },
+        {
+          "title": "Libro y Tarjetas de Condolencias",
+          "description": "Registro de los mensajes dejados por quienes acompañaron a la familia."
+        },
+        {
+          "title": "Traslado en Carrozas Premium al Funeral",
+          "description": "Flota de carrozas de último modelo para un traslado digno y respetuoso."
+        },
+        {
+          "title": "Vehículo de Acompañamiento",
+          "description": "Transporte para la familia durante el cortejo fúnebre en Iquique y Alto Hospicio. Solo cementerios locales, excluye traslado al crematorio."
+        }
+      ],
+      "steps": [
+        {
+          "step": 1,
+          "title": "Cotiza y consulta",
+          "description": "Llámanos o escríbenos por WhatsApp. Un ejecutivo te explica el plan, resuelve tus dudas y te entrega toda la información sin compromiso."
+        },
+        {
+          "step": 2,
+          "title": "Firma el contrato",
+          "description": "Elegimos juntos la modalidad de pago que más te acomoda. El contrato queda registrado y el plan activado desde el primer día."
+        },
+        {
+          "step": 3,
+          "title": "Tu familia queda protegida",
+          "description": "Cuando llegue el momento, solo necesitan llamar. Nosotros nos encargamos de todo, con el precio pactado y sin trámites adicionales para tu familia."
+        }
+      ],
+      "faq": [
+        {
+          "question": "¿El Plan Legado aplica para atención inmediata y venta futuro?",
+          "answer": "Sí, el Plan Legado está disponible tanto para atención inmediata (cuando ya ocurrió el fallecimiento) como para venta futuro (contratándolo de forma anticipada con condiciones especiales)."
+        },
+        {
+          "question": "¿Tienen financiamiento disponible?",
+          "answer": "Sí, contamos con opciones de financiamiento para la venta futuro. Consúltenos directamente al +56 9 90511579 para conocer los planes de pago disponibles según su situación."
+        },
+        {
+          "question": "¿El servicio cubre traslados fuera de Iquique?",
+          "answer": "El Plan Legado incluye traslado local. Para traslados nacionales e internacionales contamos con servicios adicionales. Consúltenos y lo orientamos según sus necesidades."
+        },
+        {
+          "question": "¿Cuánto tiempo tarda en activarse el servicio?",
+          "answer": "Nuestra atención es inmediata las 24 horas del día, los 365 días del año. Al llamar al +56 9 90511579 un ejecutivo responde de inmediato y coordina todo desde el primer momento."
+        },
+        {
+          "question": "¿El plan es transferible a un familiar?",
+          "answer": "Sí, el plan es 100% transferible a familiares directos (padres, hermanos, cónyuge e hijos). Consúltanos para coordinar el cambio de titular y dejar todo correctamente registrado."
+        },
+        {
+          "question": "¿Puedo cambiar o mejorar mi plan después de contratarlo?",
+          "answer": "Sí, es posible mejorar el plan contratado. La diferencia de valor se ajusta según las condiciones vigentes al momento del cambio. Llámenos para revisar tu situación particular."
+        },
+        {
+          "question": "¿Qué pasa si fallezco fuera de Iquique?",
+          "answer": "Contamos con coordinación para traslados desde otras ciudades y regiones del país. Los costos de traslado a larga distancia se evalúan caso a caso. Consúltenos para más detalles."
+        },
+        {
+          "question": "¿El precio del plan sube con el tiempo?",
+          "answer": "El valor del plan queda fijado al momento de la contratación. Una de las ventajas de la previsión funeraria es precisamente esa: proteges a tu familia del alza de precios futura."
+        }
+      ],
+      "coverage": [
+        "Iquique",
+        "Alto Hospicio",
+        "Pozo Almonte",
+        "Huara",
+        "Pica",
+        "Camiña"
+      ],
+      "financing": [
+        {
+          "percent": "7%",
+          "label": "Pago contado",
+          "price": "$2.501.700",
+          "tooltip": "Efectivo o transferencia",
+          "highlighted": true
+        },
+        {
+          "percent": "5%",
+          "label": "Tarjeta débito",
+          "price": "$2.555.500",
+          "highlighted": false
+        },
+        {
+          "percent": "3%",
+          "label": "Tarjeta crédito",
+          "price": "$2.609.300",
+          "highlighted": false
+        }
+      ],
+      "cuotas": [
+        {
+          "cuotas": 3,
+          "monto": "$876.667"
+        },
+        {
+          "cuotas": 6,
+          "monto": "$438.333"
+        },
+        {
+          "cuotas": 9,
+          "monto": "$292.222"
+        },
+        {
+          "cuotas": 12,
+          "monto": "$219.167"
+        },
+        {
+          "cuotas": 18,
+          "monto": "$146.111"
+        },
+        {
+          "cuotas": 24,
+          "monto": "$109.583"
+        },
+        {
+          "cuotas": 30,
+          "monto": "$87.667"
+        },
+        {
+          "cuotas": 36,
+          "monto": "$73.056"
+        }
+      ],
+      "locationTitle": "Lugar de Velación",
+      "locations": [
+        {
+          "name": "Tanatorio Cubillos",
+          "address": "Caleta Río Seco 2155, esq. Francisco Bilbao"
+        },
+        {
+          "name": "Funeraria Cubillos",
+          "address": "Serrano 999, esq. Juan Martínez"
+        }
+      ],
+      "otherPlans": [
+        {
+          "slug": "homenaje-integral",
+          "name": "Plan Homenaje Integral",
+          "description": "Cobertura completa para acompañar a su familia con tranquilidad."
+        },
+        {
+          "slug": "huella",
+          "name": "Plan Huella",
+          "description": "Cremación digna con atención integral y acompañamiento cercano."
+        },
+        {
+          "slug": "tributo",
+          "name": "Plan Tributo",
+          "description": "Cobertura esencial con traslado, sala de velación y vehículo de acompañamiento."
+        },
+        {
+          "slug": "recuerdo",
+          "name": "Plan Recuerdo",
+          "description": "Protección completa con un plan accesible y bien equipado."
+        },
+        {
+          "slug": "recuerdo-especial",
+          "name": "Plan Recuerdo Especial",
+          "description": "Una alternativa especial y accesible para honrar su memoria."
+        },
+        {
+          "slug": "memoria",
+          "name": "Plan Memoria",
+          "description": "Un plan completo para quienes quieren dejar todo resuelto."
+        },
+        {
+          "slug": "honor",
+          "name": "Plan Honor",
+          "description": "Nuestra propuesta de mayor distinción y cobertura."
+        },
+        {
+          "slug": "presidencial",
+          "name": "Plan Presidencial",
+          "description": "Nuestra propuesta de máxima distinción, cobertura y exclusividad."
+        }
+      ]
+    },
+    "memoria": {
+      "name": "Memoria",
+      "tagline": "Un plan completo para quienes quieren dejar todo resuelto con dignidad.",
+      "galleryLabel": "Ataúd incluido",
+      "galleryTitle": "Modelo Mackeley",
+      "galleryImages": [
+        "/assets/planes/memoria-ataud-01.png",
+        "/assets/planes/memoria-ataud-02.png",
+        "/assets/planes/memoria-ataud-03.png",
+        "/assets/planes/memoria-ataud-04.png",
+        "/assets/planes/memoria-ataud-05.png"
+      ],
+      "specs": [
+        {
+          "label": "Modelo",
+          "value": "Mackeley"
+        },
+        {
+          "label": "Madera",
+          "value": "Pino Sólida"
+        },
+        {
+          "label": "Terminado",
+          "value": "Lisa o Tallada"
+        }
+      ],
+      "services": [
+        {
+          "title": "Asesoramiento 24/7",
+          "description": "Acompañamiento y orientación permanente para la familia durante todo el proceso."
+        },
+        {
+          "title": "Tramitación Integral",
+          "description": "Gestionamos todos los trámites legales y administrativos en su nombre."
+        },
+        {
+          "title": "Traslado del cuerpo",
+          "description": "Retiro y traslado con las condiciones de dignidad y cuidado que su familia merece."
+        },
+        {
+          "title": "Preparación Tanatoestética",
+          "description": "Preparación del cuerpo para que la familia pueda despedirse con paz y serenidad."
+        },
+        {
+          "title": "Sala de Velación",
+          "description": "Instalaciones cómodas y privadas para que la familia pueda despedirse con tranquilidad."
+        },
+        {
+          "title": "Servicio de Capilla a Domicilio",
+          "description": "Montaje de capilla en el hogar para quienes prefieren velar a su ser querido en casa."
+        },
+        {
+          "title": "Cafetería",
+          "description": "Atención con café, té y acompañamiento durante el velorio."
+        },
+        {
+          "title": "Servicio de Condolencias Virtuales (Tellmebye)",
+          "description": "Plataforma digital para que amigos y familiares dejen sus mensajes de manera virtual. Disponible en salas velatorias en Tanatorio Bilbao y Funeraria de Serrano."
+        },
+        {
+          "title": "Portarretrato y Cinta Inmemorial",
+          "description": "Un recuerdo tangible para preservar la memoria del ser querido."
+        },
+        {
+          "title": "Libro y Tarjetas de Condolencias",
+          "description": "Registro de los mensajes dejados por quienes acompañaron a la familia."
+        },
+        {
+          "title": "Traslado en Carrozas Premium al Funeral",
+          "description": "Flota de carrozas de último modelo para un traslado digno y respetuoso."
+        },
+        {
+          "title": "Vehículo de Acompañamiento",
+          "description": "Transporte para la familia durante el cortejo fúnebre en Iquique y Alto Hospicio. Solo cementerios locales, excluye traslado al crematorio."
+        }
+      ],
+      "steps": [
+        {
+          "step": 1,
+          "title": "Cotiza y consulta",
+          "description": "Llámanos o escríbenos por WhatsApp. Un ejecutivo te explica el plan, resuelve tus dudas y te entrega toda la información sin compromiso."
+        },
+        {
+          "step": 2,
+          "title": "Firma el contrato",
+          "description": "Elegimos juntos la modalidad de pago que más te acomoda. El contrato queda registrado y el plan activado desde el primer día."
+        },
+        {
+          "step": 3,
+          "title": "Tu familia queda protegida",
+          "description": "Cuando llegue el momento, solo necesitan llamar. Nosotros nos encargamos de todo, con el precio pactado y sin trámites adicionales para tu familia."
+        }
+      ],
+      "faq": [
+        {
+          "question": "¿El Plan Memoria aplica para atención inmediata y venta futuro?",
+          "answer": "Sí, el Plan Memoria está disponible tanto para atención inmediata (cuando ya ocurrió el fallecimiento) como para venta futuro (contratándolo de forma anticipada con condiciones especiales)."
+        },
+        {
+          "question": "¿Tienen financiamiento disponible?",
+          "answer": "Sí, contamos con opciones de financiamiento para la venta futuro. Consúltenos directamente al +56 9 90511579 para conocer los planes de pago disponibles según su situación."
+        },
+        {
+          "question": "¿El servicio cubre traslados fuera de Iquique?",
+          "answer": "El Plan Memoria incluye traslado local. Para traslados nacionales e internacionales contamos con servicios adicionales. Consúltenos y lo orientamos según sus necesidades."
+        },
+        {
+          "question": "¿Cuánto tiempo tarda en activarse el servicio?",
+          "answer": "Nuestra atención es inmediata las 24 horas del día, los 365 días del año. Al llamar al +56 9 90511579 un ejecutivo responde de inmediato y coordina todo desde el primer momento."
+        },
+        {
+          "question": "¿El plan es transferible a un familiar?",
+          "answer": "Sí, el plan es 100% transferible a familiares directos (padres, hermanos, cónyuge e hijos). Consúltanos para coordinar el cambio de titular y dejar todo correctamente registrado."
+        },
+        {
+          "question": "¿Puedo cambiar o mejorar mi plan después de contratarlo?",
+          "answer": "Sí, es posible mejorar el plan contratado. La diferencia de valor se ajusta según las condiciones vigentes al momento del cambio. Llámenos para revisar tu situación particular."
+        },
+        {
+          "question": "¿Qué pasa si fallezco fuera de Iquique?",
+          "answer": "Contamos con coordinación para traslados desde otras ciudades y regiones del país. Los costos de traslado a larga distancia se evalúan caso a caso. Consúltenos para más detalles."
+        },
+        {
+          "question": "¿El precio del plan sube con el tiempo?",
+          "answer": "El valor del plan queda fijado al momento de la contratación. Una de las ventajas de la previsión funeraria es precisamente esa: proteges a tu familia del alza de precios futura."
+        }
+      ],
+      "coverage": [
+        "Iquique",
+        "Alto Hospicio",
+        "Pozo Almonte",
+        "Huara",
+        "Pica",
+        "Camiña"
+      ],
+      "financing": [
+        {
+          "percent": "7%",
+          "label": "Pago contado",
+          "price": "$1.757.700",
+          "tooltip": "Efectivo o transferencia",
+          "highlighted": true
+        },
+        {
+          "percent": "5%",
+          "label": "Tarjeta débito",
+          "price": "$1.795.500",
+          "highlighted": false
+        },
+        {
+          "percent": "3%",
+          "label": "Tarjeta crédito",
+          "price": "$1.833.300",
+          "highlighted": false
+        }
+      ],
+      "cuotas": [
+        {
+          "cuotas": 3,
+          "monto": "$610.000"
+        },
+        {
+          "cuotas": 6,
+          "monto": "$305.000"
+        },
+        {
+          "cuotas": 9,
+          "monto": "$203.333"
+        },
+        {
+          "cuotas": 12,
+          "monto": "$152.500"
+        },
+        {
+          "cuotas": 18,
+          "monto": "$101.667"
+        },
+        {
+          "cuotas": 24,
+          "monto": "$76.250"
+        },
+        {
+          "cuotas": 30,
+          "monto": "$61.000"
+        },
+        {
+          "cuotas": 36,
+          "monto": "$50.833"
+        }
+      ],
+      "locationTitle": "Lugar de Velación",
+      "locations": [
+        {
+          "name": "Tanatorio Cubillos",
+          "address": "Caleta Río Seco 2155, esq. Francisco Bilbao"
+        },
+        {
+          "name": "Funeraria Cubillos",
+          "address": "Serrano 999, esq. Juan Martínez"
+        }
+      ],
+      "otherPlans": [
+        {
+          "slug": "homenaje-integral",
+          "name": "Plan Homenaje Integral",
+          "description": "Cobertura completa para acompañar a su familia con tranquilidad."
+        },
+        {
+          "slug": "huella",
+          "name": "Plan Huella",
+          "description": "Cremación digna con atención integral y acompañamiento cercano."
+        },
+        {
+          "slug": "tributo",
+          "name": "Plan Tributo",
+          "description": "Cobertura esencial con traslado, sala de velación y vehículo de acompañamiento."
+        },
+        {
+          "slug": "recuerdo",
+          "name": "Plan Recuerdo",
+          "description": "Protección completa con un plan accesible y bien equipado."
+        },
+        {
+          "slug": "recuerdo-especial",
+          "name": "Plan Recuerdo Especial",
+          "description": "Una alternativa especial y accesible para honrar su memoria."
+        },
+        {
+          "slug": "legado",
+          "name": "Plan Legado",
+          "description": "Servicio premium con atención personalizada."
+        },
+        {
+          "slug": "honor",
+          "name": "Plan Honor",
+          "description": "Nuestra propuesta de mayor distinción y cobertura."
+        },
+        {
+          "slug": "presidencial",
+          "name": "Plan Presidencial",
+          "description": "Nuestra propuesta de máxima distinción, cobertura y exclusividad."
+        }
+      ]
+    },
+    "presidencial": {
+      "name": "Presidencial",
+      "tagline": "Un plan completo y distinguido para proteger a su familia con todo incluido.",
+      "galleryLabel": "Ataúd incluido",
+      "galleryTitle": "ModeloLincoln Española cuerpo entero 3 corazas",
+      "galleryImages": [
+        "/assets/planes/presidencial-ataud-01.png",
+        "/assets/planes/presidencial-ataud-02.png",
+        "/assets/planes/presidencial-ataud-03.png",
+        "/assets/planes/presidencial-ataud-04.png"
+      ],
+      "specs": [
+        {
+          "label": "Modelo",
+          "value": "Lincoln Española cuerpo entero 3 corazas"
+        },
+        {
+          "label": "Madera",
+          "value": "Nativa Castaño o Raulí"
+        },
+        {
+          "label": "Terminado",
+          "value": "Lisa o Tallada"
+        }
+      ],
+      "services": [
+        {
+          "title": "Asesoramiento 24/7",
+          "description": "Acompañamiento y orientación permanente para la familia durante todo el proceso."
+        },
+        {
+          "title": "Tramitación Integral",
+          "description": "Gestionamos todos los trámites legales y administrativos en su nombre."
+        },
+        {
+          "title": "Traslado del cuerpo",
+          "description": "Retiro y traslado con las condiciones de dignidad y cuidado que su familia merece."
+        },
+        {
+          "title": "Preparación Tanatoestética",
+          "description": "Preparación del cuerpo para que la familia pueda despedirse con paz y serenidad."
+        },
+        {
+          "title": "Sala de Velación",
+          "description": "Instalaciones cómodas y privadas para que la familia pueda despedirse con tranquilidad."
+        },
+        {
+          "title": "Servicio de Capilla a Domicilio",
+          "description": "Montaje de capilla en el hogar para quienes prefieren velar a su ser querido en casa."
+        },
+        {
+          "title": "Cafetería",
+          "description": "Atención con café, té y acompañamiento durante el velorio."
+        },
+        {
+          "title": "Servicio de Condolencias Virtuales (Tellmebye)",
+          "description": "Plataforma digital para que amigos y familiares dejen sus mensajes de manera virtual. Disponible en salas velatorias en Tanatorio Bilbao y Funeraria de Serrano."
+        },
+        {
+          "title": "Portarretrato y Cinta Inmemorial",
+          "description": "Un recuerdo tangible para preservar la memoria del ser querido."
+        },
+        {
+          "title": "Libro y Tarjetas de Condolencias",
+          "description": "Registro de los mensajes dejados por quienes acompañaron a la familia."
+        },
+        {
+          "title": "Traslado en Carrozas Premium al Funeral",
+          "description": "Flota de carrozas de último modelo para un traslado digno y respetuoso."
+        },
+        {
+          "title": "Vehículo de Acompañamiento",
+          "description": "Transporte para la familia durante el cortejo fúnebre en Iquique y Alto Hospicio. Solo cementerios locales, excluye traslado al crematorio."
+        }
+      ],
+      "steps": [
+        {
+          "step": 1,
+          "title": "Cotiza y consulta",
+          "description": "Llámanos o escríbenos por WhatsApp. Un ejecutivo te explica el plan, resuelve tus dudas y te entrega toda la información sin compromiso."
+        },
+        {
+          "step": 2,
+          "title": "Firma el contrato",
+          "description": "Elegimos juntos la modalidad de pago que más te acomoda. El contrato queda registrado y el plan activado desde el primer día."
+        },
+        {
+          "step": 3,
+          "title": "Tu familia queda protegida",
+          "description": "Cuando llegue el momento, solo necesitan llamar. Nosotros nos encargamos de todo, con el precio pactado y sin trámites adicionales para tu familia."
+        }
+      ],
+      "faq": [
+        {
+          "question": "¿El Plan Presidencial aplica para atención inmediata y venta futuro?",
+          "answer": "Sí, el Plan Presidencial está disponible tanto para atención inmediata (cuando ya ocurrió el fallecimiento) como para venta futuro (contratándolo de forma anticipada con condiciones especiales)."
+        },
+        {
+          "question": "¿Tienen financiamiento disponible?",
+          "answer": "Sí, contamos con opciones de financiamiento para la venta futuro. Consúltenos directamente al +56 9 90511579 para conocer los planes de pago disponibles según su situación."
+        },
+        {
+          "question": "¿El servicio cubre traslados fuera de Iquique?",
+          "answer": "El Plan Presidencial incluye traslado local. Para traslados nacionales e internacionales contamos con servicios adicionales. Consúltenos y lo orientamos según sus necesidades."
+        },
+        {
+          "question": "¿Cuánto tiempo tarda en activarse el servicio?",
+          "answer": "Nuestra atención es inmediata las 24 horas del día, los 365 días del año. Al llamar al +56 9 90511579 un ejecutivo responde de inmediato y coordina todo desde el primer momento."
+        },
+        {
+          "question": "¿El plan es transferible a un familiar?",
+          "answer": "Sí, el plan es 100% transferible a familiares directos (padres, hermanos, cónyuge e hijos). Consúltanos para coordinar el cambio de titular y dejar todo correctamente registrado."
+        },
+        {
+          "question": "¿Puedo cambiar o mejorar mi plan después de contratarlo?",
+          "answer": "Sí, es posible mejorar el plan contratado. La diferencia de valor se ajusta según las condiciones vigentes al momento del cambio. Llámenos para revisar tu situación particular."
+        },
+        {
+          "question": "¿Qué pasa si fallezco fuera de Iquique?",
+          "answer": "Contamos con coordinación para traslados desde otras ciudades y regiones del país. Los costos de traslado a larga distancia se evalúan caso a caso. Consúltenos para más detalles."
+        },
+        {
+          "question": "¿El precio del plan sube con el tiempo?",
+          "answer": "El valor del plan queda fijado al momento de la contratación. Una de las ventajas de la previsión funeraria es precisamente esa: proteges a tu familia del alza de precios futura."
+        }
+      ],
+      "coverage": [
+        "Iquique",
+        "Alto Hospicio",
+        "Pozo Almonte",
+        "Huara",
+        "Pica",
+        "Camiña"
+      ],
+      "financing": [
+        {
+          "percent": "7%",
+          "label": "Pago contado",
+          "price": "$4.082.700",
+          "tooltip": "Efectivo o transferencia",
+          "highlighted": true
+        },
+        {
+          "percent": "5%",
+          "label": "Tarjeta débito",
+          "price": "$4.170.500",
+          "highlighted": false
+        },
+        {
+          "percent": "3%",
+          "label": "Tarjeta crédito",
+          "price": "$4.258.300",
+          "highlighted": false
+        }
+      ],
+      "cuotas": [
+        {
+          "cuotas": 3,
+          "monto": "$1.443.333"
+        },
+        {
+          "cuotas": 6,
+          "monto": "$721.667"
+        },
+        {
+          "cuotas": 9,
+          "monto": "$481.111"
+        },
+        {
+          "cuotas": 12,
+          "monto": "$360.833"
+        },
+        {
+          "cuotas": 18,
+          "monto": "$240.556"
+        },
+        {
+          "cuotas": 24,
+          "monto": "$180.417"
+        },
+        {
+          "cuotas": 30,
+          "monto": "$144.333"
+        },
+        {
+          "cuotas": 36,
+          "monto": "$120.278"
+        }
+      ],
+      "locationTitle": "Lugar de Velación",
+      "locations": [
+        {
+          "name": "Tanatorio Cubillos",
+          "address": "Caleta Río Seco 2155, esq. Francisco Bilbao"
+        },
+        {
+          "name": "Funeraria Cubillos",
+          "address": "Serrano 999, esq. Juan Martínez"
+        }
+      ],
+      "otherPlans": [
+        {
+          "slug": "homenaje-integral",
+          "name": "Plan Homenaje Integral",
+          "description": "Equilibrio entre cobertura y valor para su familia."
+        },
+        {
+          "slug": "huella",
+          "name": "Plan Huella",
+          "description": "Cremación digna con atención integral y acompañamiento cercano."
+        },
+        {
+          "slug": "tributo",
+          "name": "Plan Tributo",
+          "description": "Cobertura esencial con traslado, sala de velación y vehículo de acompañamiento."
+        },
+        {
+          "slug": "recuerdo",
+          "name": "Plan Recuerdo",
+          "description": "Protección completa con un plan accesible y bien equipado."
+        },
+        {
+          "slug": "recuerdo-especial",
+          "name": "Plan Recuerdo Especial",
+          "description": "Una alternativa especial y accesible para honrar su memoria."
+        },
+        {
+          "slug": "memoria",
+          "name": "Plan Memoria",
+          "description": "Un plan completo para quienes quieren dejar todo resuelto."
+        },
+        {
+          "slug": "legado",
+          "name": "Plan Legado",
+          "description": "Servicio premium con atención personalizada."
+        },
+        {
+          "slug": "honor",
+          "name": "Plan Honor",
+          "description": "Nuestra propuesta de mayor distinción y cobertura."
+        }
+      ]
+    },
+    "recuerdo-especial": {
+      "name": "Recuerdo Especial",
+      "tagline": "Protección completa para su familia con un plan accesible y bien equipado.",
+      "galleryLabel": "Ataúd incluido",
+      "galleryTitle": "Modelo Mackeley",
+      "galleryImages": [
+        "/assets/planes/recuerdo-especial-ataud-01.png",
+        "/assets/planes/recuerdo-especial-ataud-02.png",
+        "/assets/planes/recuerdo-especial-ataud-03.png"
+      ],
+      "specs": [
+        {
+          "label": "Modelo",
+          "value": "Mackeley"
+        },
+        {
+          "label": "Madera",
+          "value": "Pino Terciado Especial"
+        },
+        {
+          "label": "Terminado",
+          "value": "Lisa o Tallada"
+        }
+      ],
+      "services": [
+        {
+          "title": "Asesoramiento 24/7",
+          "description": "Acompañamiento y orientación permanente para la familia durante todo el proceso."
+        },
+        {
+          "title": "Tramitación Integral",
+          "description": "Gestionamos todos los trámites legales y administrativos en su nombre."
+        },
+        {
+          "title": "Traslado del cuerpo",
+          "description": "Retiro y traslado con las condiciones de dignidad y cuidado que su familia merece."
+        },
+        {
+          "title": "Preparación Tanatoestética",
+          "description": "Preparación del cuerpo para que la familia pueda despedirse con paz y serenidad."
+        },
+        {
+          "title": "Sala de Velación",
+          "description": "Instalaciones cómodas y privadas para que la familia pueda despedirse con tranquilidad."
+        },
+        {
+          "title": "Servicio de Capilla a Domicilio",
+          "description": "Montaje de capilla en el hogar para quienes prefieren velar a su ser querido en casa."
+        },
+        {
+          "title": "Cafetería",
+          "description": "Atención con café, té y acompañamiento durante el velorio."
+        },
+        {
+          "title": "Servicio de Condolencias Virtuales (Tellmebye)",
+          "description": "Plataforma digital para que amigos y familiares dejen sus mensajes de manera virtual. Disponible en salas velatorias en Tanatorio Bilbao y Funeraria de Serrano."
+        },
+        {
+          "title": "Portarretrato y Cinta Inmemorial",
+          "description": "Un recuerdo tangible para preservar la memoria del ser querido."
+        },
+        {
+          "title": "Libro y Tarjetas de Condolencias",
+          "description": "Registro de los mensajes dejados por quienes acompañaron a la familia."
+        },
+        {
+          "title": "Traslado en Carrozas Premium al Funeral",
+          "description": "Flota de carrozas de último modelo para un traslado digno y respetuoso."
+        },
+        {
+          "title": "Vehículo de Acompañamiento",
+          "description": "Transporte para la familia durante el cortejo fúnebre en Iquique y Alto Hospicio. Solo cementerios locales, excluye traslado al crematorio."
+        }
+      ],
+      "steps": [
+        {
+          "step": 1,
+          "title": "Cotiza y consulta",
+          "description": "Llámanos o escríbenos por WhatsApp. Un ejecutivo te explica el plan, resuelve tus dudas y te entrega toda la información sin compromiso."
+        },
+        {
+          "step": 2,
+          "title": "Firma el contrato",
+          "description": "Elegimos juntos la modalidad de pago que más te acomoda. El contrato queda registrado y el plan activado desde el primer día."
+        },
+        {
+          "step": 3,
+          "title": "Tu familia queda protegida",
+          "description": "Cuando llegue el momento, solo necesitan llamar. Nosotros nos encargamos de todo, con el precio pactado y sin trámites adicionales para tu familia."
+        }
+      ],
+      "faq": [
+        {
+          "question": "¿El Plan Recuerdo Especial aplica para atención inmediata y venta futuro?",
+          "answer": "Sí, el Plan Recuerdo Especial está disponible tanto para atención inmediata (cuando ya ocurrió el fallecimiento) como para venta futuro (contratándolo de forma anticipada con condiciones especiales)."
+        },
+        {
+          "question": "¿Tienen financiamiento disponible?",
+          "answer": "Sí, contamos con opciones de financiamiento para la venta futuro. Consúltenos directamente al +56 9 90511579 para conocer los planes de pago disponibles según su situación."
+        },
+        {
+          "question": "¿El servicio cubre traslados fuera de Iquique?",
+          "answer": "El Plan Recuerdo Especial incluye traslado local. Para traslados nacionales e internacionales contamos con servicios adicionales. Consúltenos y lo orientamos según sus necesidades."
+        },
+        {
+          "question": "¿Cuánto tiempo tarda en activarse el servicio?",
+          "answer": "Nuestra atención es inmediata las 24 horas del día, los 365 días del año. Al llamar al +56 9 90511579 un ejecutivo responde de inmediato y coordina todo desde el primer momento."
+        },
+        {
+          "question": "¿El plan es transferible a un familiar?",
+          "answer": "Sí, el plan es 100% transferible a familiares directos (padres, hermanos, cónyuge e hijos). Consúltanos para coordinar el cambio de titular y dejar todo correctamente registrado."
+        },
+        {
+          "question": "¿Puedo cambiar o mejorar mi plan después de contratarlo?",
+          "answer": "Sí, es posible mejorar el plan contratado. La diferencia de valor se ajusta según las condiciones vigentes al momento del cambio. Llámenos para revisar tu situación particular."
+        },
+        {
+          "question": "¿Qué pasa si fallezco fuera de Iquique?",
+          "answer": "Contamos con coordinación para traslados desde otras ciudades y regiones del país. Los costos de traslado a larga distancia se evalúan caso a caso. Consúltenos para más detalles."
+        },
+        {
+          "question": "¿El precio del plan sube con el tiempo?",
+          "answer": "El valor del plan queda fijado al momento de la contratación. Una de las ventajas de la previsión funeraria es precisamente esa: proteges a tu familia del alza de precios futura."
+        }
+      ],
+      "coverage": [
+        "Iquique",
+        "Alto Hospicio",
+        "Pozo Almonte",
+        "Huara",
+        "Pica",
+        "Camiña"
+      ],
+      "financing": [
+        {
+          "percent": "7%",
+          "label": "Pago contado",
+          "price": "$1.478.700",
+          "tooltip": "Efectivo o transferencia",
+          "highlighted": true
+        },
+        {
+          "percent": "5%",
+          "label": "Tarjeta débito",
+          "price": "$1.510.500",
+          "highlighted": false
+        },
+        {
+          "percent": "3%",
+          "label": "Tarjeta crédito",
+          "price": "$1.542.300",
+          "highlighted": false
+        }
+      ],
+      "cuotas": [
+        {
+          "cuotas": 3,
+          "monto": "$510.000"
+        },
+        {
+          "cuotas": 6,
+          "monto": "$255.000"
+        },
+        {
+          "cuotas": 9,
+          "monto": "$170.000"
+        },
+        {
+          "cuotas": 12,
+          "monto": "$127.500"
+        },
+        {
+          "cuotas": 18,
+          "monto": "$85.000"
+        },
+        {
+          "cuotas": 24,
+          "monto": "$63.750"
+        },
+        {
+          "cuotas": 30,
+          "monto": "$51.000"
+        },
+        {
+          "cuotas": 36,
+          "monto": "$42.500"
+        }
+      ],
+      "locationTitle": "Lugar de Velación",
+      "locations": [
+        {
+          "name": "Tanatorio Cubillos",
+          "address": "Caleta Río Seco 2155, esq. Francisco Bilbao"
+        },
+        {
+          "name": "Funeraria Cubillos",
+          "address": "Serrano 999, esq. Juan Martínez"
+        }
+      ],
+      "otherPlans": [
+        {
+          "slug": "homenaje-integral",
+          "name": "Plan Homenaje Integral",
+          "description": "Cobertura completa para acompañar a su familia con tranquilidad."
+        },
+        {
+          "slug": "huella",
+          "name": "Plan Huella",
+          "description": "Cremación digna con atención integral y acompañamiento cercano."
+        },
+        {
+          "slug": "tributo",
+          "name": "Plan Tributo",
+          "description": "Cobertura esencial con traslado, sala de velación y vehículo de acompañamiento."
+        },
+        {
+          "slug": "recuerdo",
+          "name": "Plan Recuerdo",
+          "description": "Protección completa con un plan accesible y bien equipado."
+        },
+        {
+          "slug": "memoria",
+          "name": "Plan Memoria",
+          "description": "Un plan completo para quienes quieren dejar todo resuelto."
+        },
+        {
+          "slug": "legado",
+          "name": "Plan Legado",
+          "description": "Servicio premium con atención personalizada."
+        },
+        {
+          "slug": "honor",
+          "name": "Plan Honor",
+          "description": "Nuestra propuesta de mayor distinción y cobertura."
+        },
+        {
+          "slug": "presidencial",
+          "name": "Plan Presidencial",
+          "description": "Nuestra propuesta de máxima distinción, cobertura y exclusividad."
+        }
+      ]
+    },
+    "recuerdo": {
+      "name": "Recuerdo",
+      "tagline": "Protección completa para su familia con un plan accesible y bien equipado.",
+      "galleryLabel": "Ataúd incluido",
+      "galleryTitle": "Modelo Mackeley",
+      "galleryImages": [
+        "/assets/planes/recuerdo-ataud-01.png",
+        "/assets/planes/recuerdo-ataud-02.png",
+        "/assets/planes/recuerdo-ataud-03.png",
+        "/assets/planes/recuerdo-ataud-04.png"
+      ],
+      "specs": [
+        {
+          "label": "Modelo",
+          "value": "Mackeley"
+        },
+        {
+          "label": "Madera",
+          "value": "Pino Terciado"
+        },
+        {
+          "label": "Terminado",
+          "value": "Lisa o Tallada"
+        }
+      ],
+      "services": [
+        {
+          "title": "Asesoramiento 24/7",
+          "description": "Acompañamiento y orientación permanente para la familia durante todo el proceso."
+        },
+        {
+          "title": "Tramitación Integral",
+          "description": "Gestionamos todos los trámites legales y administrativos en su nombre."
+        },
+        {
+          "title": "Traslado del cuerpo",
+          "description": "Retiro y traslado con las condiciones de dignidad y cuidado que su familia merece."
+        },
+        {
+          "title": "Preparación Tanatoestética",
+          "description": "Preparación del cuerpo para que la familia pueda despedirse con paz y serenidad."
+        },
+        {
+          "title": "Sala de Velación",
+          "description": "Instalaciones cómodas y privadas para que la familia pueda despedirse con tranquilidad."
+        },
+        {
+          "title": "Servicio de Capilla a Domicilio",
+          "description": "Montaje de capilla en el hogar para quienes prefieren velar a su ser querido en casa."
+        },
+        {
+          "title": "Cafetería",
+          "description": "Atención con café, té y acompañamiento durante el velorio."
+        },
+        {
+          "title": "Servicio de Condolencias Virtuales (Tellmebye)",
+          "description": "Plataforma digital para que amigos y familiares dejen sus mensajes de manera virtual. Disponible en salas velatorias en Tanatorio Bilbao y Funeraria de Serrano."
+        },
+        {
+          "title": "Portarretrato y Cinta Inmemorial",
+          "description": "Un recuerdo tangible para preservar la memoria del ser querido."
+        },
+        {
+          "title": "Libro y Tarjetas de Condolencias",
+          "description": "Registro de los mensajes dejados por quienes acompañaron a la familia."
+        },
+        {
+          "title": "Traslado en Carrozas Premium al Funeral",
+          "description": "Flota de carrozas de último modelo para un traslado digno y respetuoso."
+        },
+        {
+          "title": "Vehículo de Acompañamiento",
+          "description": "Transporte para la familia durante el cortejo fúnebre en Iquique y Alto Hospicio. Solo cementerios locales, excluye traslado al crematorio."
+        }
+      ],
+      "steps": [
+        {
+          "step": 1,
+          "title": "Cotiza y consulta",
+          "description": "Llámanos o escríbenos por WhatsApp. Un ejecutivo te explica el plan, resuelve tus dudas y te entrega toda la información sin compromiso."
+        },
+        {
+          "step": 2,
+          "title": "Firma el contrato",
+          "description": "Elegimos juntos la modalidad de pago que más te acomoda. El contrato queda registrado y el plan activado desde el primer día."
+        },
+        {
+          "step": 3,
+          "title": "Tu familia queda protegida",
+          "description": "Cuando llegue el momento, solo necesitan llamar. Nosotros nos encargamos de todo, con el precio pactado y sin trámites adicionales para tu familia."
+        }
+      ],
+      "faq": [
+        {
+          "question": "¿El Plan Recuerdo aplica para atención inmediata y venta futuro?",
+          "answer": "Sí, el Plan Recuerdo está disponible tanto para atención inmediata (cuando ya ocurrió el fallecimiento) como para venta futuro (contratándolo de forma anticipada con condiciones especiales)."
+        },
+        {
+          "question": "¿Tienen financiamiento disponible?",
+          "answer": "Sí, contamos con opciones de financiamiento para la venta futuro. Consúltenos directamente al +56 9 90511579 para conocer los planes de pago disponibles según su situación."
+        },
+        {
+          "question": "¿El servicio cubre traslados fuera de Iquique?",
+          "answer": "El Plan Recuerdo incluye traslado local. Para traslados nacionales e internacionales contamos con servicios adicionales. Consúltenos y lo orientamos según sus necesidades."
+        },
+        {
+          "question": "¿Cuánto tiempo tarda en activarse el servicio?",
+          "answer": "Nuestra atención es inmediata las 24 horas del día, los 365 días del año. Al llamar al +56 9 90511579 un ejecutivo responde de inmediato y coordina todo desde el primer momento."
+        },
+        {
+          "question": "¿El plan es transferible a un familiar?",
+          "answer": "Sí, el plan es 100% transferible a familiares directos (padres, hermanos, cónyuge e hijos). Consúltanos para coordinar el cambio de titular y dejar todo correctamente registrado."
+        },
+        {
+          "question": "¿Puedo cambiar o mejorar mi plan después de contratarlo?",
+          "answer": "Sí, es posible mejorar el plan contratado. La diferencia de valor se ajusta según las condiciones vigentes al momento del cambio. Llámenos para revisar tu situación particular."
+        },
+        {
+          "question": "¿Qué pasa si fallezco fuera de Iquique?",
+          "answer": "Contamos con coordinación para traslados desde otras ciudades y regiones del país. Los costos de traslado a larga distancia se evalúan caso a caso. Consúltenos para más detalles."
+        },
+        {
+          "question": "¿El precio del plan sube con el tiempo?",
+          "answer": "El valor del plan queda fijado al momento de la contratación. Una de las ventajas de la previsión funeraria es precisamente esa: proteges a tu familia del alza de precios futura."
+        }
+      ],
+      "coverage": [
+        "Iquique",
+        "Alto Hospicio",
+        "Pozo Almonte",
+        "Huara",
+        "Pica",
+        "Camiña"
+      ],
+      "financing": [
+        {
+          "percent": "7%",
+          "label": "Pago contado",
+          "price": "$1.255.500",
+          "tooltip": "Efectivo o transferencia",
+          "highlighted": true
+        },
+        {
+          "percent": "5%",
+          "label": "Tarjeta débito",
+          "price": "$1.282.500",
+          "highlighted": false
+        },
+        {
+          "percent": "3%",
+          "label": "Tarjeta crédito",
+          "price": "$1.309.500",
+          "highlighted": false
+        }
+      ],
+      "cuotas": [
+        {
+          "cuotas": 3,
+          "monto": "$430.000"
+        },
+        {
+          "cuotas": 6,
+          "monto": "$215.000"
+        },
+        {
+          "cuotas": 9,
+          "monto": "$143.333"
+        },
+        {
+          "cuotas": 12,
+          "monto": "$107.500"
+        },
+        {
+          "cuotas": 18,
+          "monto": "$71.667"
+        },
+        {
+          "cuotas": 24,
+          "monto": "$53.750"
+        },
+        {
+          "cuotas": 30,
+          "monto": "$43.000"
+        },
+        {
+          "cuotas": 36,
+          "monto": "$35.833"
+        }
+      ],
+      "locationTitle": "Lugar de Velación",
+      "locations": [
+        {
+          "name": "Tanatorio Cubillos",
+          "address": "Caleta Río Seco 2155, esq. Francisco Bilbao"
+        },
+        {
+          "name": "Funeraria Cubillos",
+          "address": "Serrano 999, esq. Juan Martínez"
+        }
+      ],
+      "otherPlans": [
+        {
+          "slug": "homenaje-integral",
+          "name": "Plan Homenaje Integral",
+          "description": "Cobertura completa para acompañar a su familia con tranquilidad."
+        },
+        {
+          "slug": "huella",
+          "name": "Plan Huella",
+          "description": "Cremación digna con atención integral y acompañamiento cercano."
+        },
+        {
+          "slug": "tributo",
+          "name": "Plan Tributo",
+          "description": "Cobertura esencial con traslado, sala de velación y vehículo de acompañamiento."
+        },
+        {
+          "slug": "recuerdo-especial",
+          "name": "Plan Recuerdo Especial",
+          "description": "Una alternativa especial y accesible para honrar su memoria."
+        },
+        {
+          "slug": "memoria",
+          "name": "Plan Memoria",
+          "description": "Un plan completo para quienes quieren dejar todo resuelto."
+        },
+        {
+          "slug": "legado",
+          "name": "Plan Legado",
+          "description": "Servicio premium con atención personalizada."
+        },
+        {
+          "slug": "honor",
+          "name": "Plan Honor",
+          "description": "Nuestra propuesta de mayor distinción y cobertura."
+        },
+        {
+          "slug": "presidencial",
+          "name": "Plan Presidencial",
+          "description": "Nuestra propuesta de máxima distinción, cobertura y exclusividad."
+        }
+      ]
+    },
+    "tributo": {
+      "name": "Tributo",
+      "tagline": "Un plan accesible y completo para proteger a su familia cuando más lo necesita.",
+      "galleryLabel": "Ataúd incluido",
+      "galleryTitle": "Modelo Plana Esperanza",
+      "galleryImages": [
+        "/assets/planes/tributo-ataud-01.png",
+        "/assets/planes/tributo-ataud-02.png",
+        "/assets/planes/tributo-ataud-03.png"
+      ],
+      "specs": [
+        {
+          "label": "Modelo",
+          "value": "Plana Esperanza"
+        },
+        {
+          "label": "Madera",
+          "value": "Pino Terciado"
+        },
+        {
+          "label": "Terminado",
+          "value": "Lisa"
+        }
+      ],
+      "services": [
+        {
+          "title": "Asesoramiento 24/7",
+          "description": "Acompañamiento y orientación permanente para la familia durante todo el proceso."
+        },
+        {
+          "title": "Tramitación Integral",
+          "description": "Gestionamos todos los trámites legales y administrativos en su nombre."
+        },
+        {
+          "title": "Traslado del cuerpo",
+          "description": "Retiro y traslado con las condiciones de dignidad y cuidado que su familia merece."
+        },
+        {
+          "title": "Preparación Tanatoéstica",
+          "description": "Preparación del cuerpo para que la familia pueda despedirse con paz y serenidad."
+        },
+        {
+          "title": "Sala de Velación",
+          "description": "Instalaciones cómodas y privadas para que la familia pueda despedirse con tranquilidad."
+        },
+        {
+          "title": "Servicio de Capilla a Domicilio",
+          "description": "Montaje de capilla en el hogar para quienes prefieren velar a su ser querido en casa."
+        },
+        {
+          "title": "Cafetería",
+          "description": "Atención con café, té y acompañamiento durante el velorio."
+        },
+        {
+          "title": "Condolencias Virtuales (Tellmebye)",
+          "description": "Plataforma digital para que amigos y familiares dejen sus mensajes de manera virtual. Disponible en salas velatorias en Tanatorio Bilbao y Funeraria de Serrano."
+        },
+        {
+          "title": "Portarretrato y Cinta Inmemorial",
+          "description": "Un recuerdo tangible para preservar la memoria del ser querido."
+        },
+        {
+          "title": "Libro y Tarjetas de Condolencias",
+          "description": "Registro de los mensajes dejados por quienes acompañaron a la familia."
+        },
+        {
+          "title": "Traslado en Carrozas Premium al Funeral",
+          "description": "Flota de carrozas de último modelo para un traslado digno y respetuoso."
+        },
+        {
+          "title": "Vehículo de Acompañamiento",
+          "description": "Transporte para la familia durante el cortejo fúnebre en Iquique y Alto Hospicio. Solo cementerios locales, excluye traslado al crematorio."
+        }
+      ],
+      "steps": [
+        {
+          "step": 1,
+          "title": "Cotiza y consulta",
+          "description": "Llámanos o escríbenos por WhatsApp. Un ejecutivo te explica el plan, resuelve tus dudas y te entrega toda la información sin compromiso."
+        },
+        {
+          "step": 2,
+          "title": "Firma el contrato",
+          "description": "Elegimos juntos la modalidad de pago que más te acomoda. El contrato queda registrado y el plan activado desde el primer día."
+        },
+        {
+          "step": 3,
+          "title": "Tu familia queda protegida",
+          "description": "Cuando llegue el momento, solo necesitan llamar. Nosotros nos encargamos de todo, con el precio pactado y sin trámites adicionales para tu familia."
+        }
+      ],
+      "faq": [
+        {
+          "question": "¿El Plan Tributo aplica para atención inmediata y venta futuro?",
+          "answer": "Sí, el Plan Tributo está disponible tanto para atención inmediata (cuando ya ocurrió el fallecimiento) como para venta futuro (contratándolo de forma anticipada con condiciones especiales)."
+        },
+        {
+          "question": "¿Tienen financiamiento disponible?",
+          "answer": "Sí, contamos con opciones de financiamiento para la venta futuro. Consúltenos directamente al +56 9 90511579 para conocer los planes de pago disponibles según su situación."
+        },
+        {
+          "question": "¿El servicio cubre traslados fuera de Iquique?",
+          "answer": "El Plan Tributo incluye traslado local. Para traslados nacionales e internacionales contamos con servicios adicionales. Consúltenos y lo orientamos según sus necesidades."
+        },
+        {
+          "question": "¿Cuánto tiempo tarda en activarse el servicio?",
+          "answer": "Nuestra atención es inmediata las 24 horas del día, los 365 días del año. Al llamar al +56 9 90511579 un ejecutivo responde de inmediato y coordina todo desde el primer momento."
+        },
+        {
+          "question": "¿El plan es transferible a un familiar?",
+          "answer": "Sí, el plan es 100% transferible a familiares directos (padres, hermanos, cónyuge e hijos). Consúltanos para coordinar el cambio de titular y dejar todo correctamente registrado."
+        },
+        {
+          "question": "¿Puedo cambiar o mejorar mi plan después de contratarlo?",
+          "answer": "Sí, es posible mejorar el plan contratado. La diferencia de valor se ajusta según las condiciones vigentes al momento del cambio. Llámenos para revisar tu situación particular."
+        },
+        {
+          "question": "¿Qué pasa si fallezco fuera de Iquique?",
+          "answer": "Contamos con coordinación para traslados desde otras ciudades y regiones del país. Los costos de traslado a larga distancia se evalúan caso a caso. Consúltenos para más detalles."
+        },
+        {
+          "question": "¿El precio del plan sube con el tiempo?",
+          "answer": "El valor del plan queda fijado al momento de la contratación. Una de las ventajas de la previsión funeraria es precisamente esa: proteges a tu familia del alza de precios futura."
+        }
+      ],
+      "coverage": [
+        "Iquique",
+        "Alto Hospicio",
+        "Pozo Almonte",
+        "Huara",
+        "Pica",
+        "Camiña"
+      ],
+      "financing": [
+        {
+          "percent": "7%",
+          "label": "Pago contado",
+          "price": "$837.000",
+          "tooltip": "Efectivo o transferencia",
+          "highlighted": true
+        },
+        {
+          "percent": "5%",
+          "label": "Tarjeta débito",
+          "price": "$855.000",
+          "highlighted": false
+        },
+        {
+          "percent": "3%",
+          "label": "Tarjeta crédito",
+          "price": "$873.000",
+          "highlighted": false
+        }
+      ],
+      "cuotas": [
+        {
+          "cuotas": 3,
+          "monto": "$280.000"
+        },
+        {
+          "cuotas": 6,
+          "monto": "$140.000"
+        },
+        {
+          "cuotas": 9,
+          "monto": "$93.333"
+        },
+        {
+          "cuotas": 12,
+          "monto": "$70.000"
+        },
+        {
+          "cuotas": 18,
+          "monto": "$46.667"
+        },
+        {
+          "cuotas": 24,
+          "monto": "$35.000"
+        },
+        {
+          "cuotas": 30,
+          "monto": "$28.000"
+        },
+        {
+          "cuotas": 36,
+          "monto": "$23.333"
+        }
+      ],
+      "locationTitle": "Lugar de Velación",
+      "locations": [
+        {
+          "name": "Funeraria Cubillos",
+          "address": "Serrano 999, esq. Juan Martínez"
+        }
+      ],
+      "otherPlans": [
+        {
+          "slug": "homenaje-integral",
+          "name": "Plan Homenaje Integral",
+          "description": "Cobertura completa para acompañar a su familia con tranquilidad."
+        },
+        {
+          "slug": "huella",
+          "name": "Plan Huella",
+          "description": "Cremación digna con atención integral y acompañamiento cercano."
+        },
+        {
+          "slug": "recuerdo",
+          "name": "Plan Recuerdo",
+          "description": "Protección completa con un plan accesible y bien equipado."
+        },
+        {
+          "slug": "recuerdo-especial",
+          "name": "Plan Recuerdo Especial",
+          "description": "Una alternativa especial y accesible para honrar su memoria."
+        },
+        {
+          "slug": "memoria",
+          "name": "Plan Memoria",
+          "description": "Un plan completo para quienes quieren dejar todo resuelto."
+        },
+        {
+          "slug": "legado",
+          "name": "Plan Legado",
+          "description": "Servicio premium con atención personalizada."
+        },
+        {
+          "slug": "honor",
+          "name": "Plan Honor",
+          "description": "Nuestra propuesta de mayor distinción y cobertura."
+        },
+        {
+          "slug": "presidencial",
+          "name": "Plan Presidencial",
+          "description": "Nuestra propuesta de máxima distinción, cobertura y exclusividad."
+        }
+      ]
+    }
+  },
+  "indexCards": [
+    {
+      "name": "Plan Tributo",
+      "description": "Cobertura esencial con ataúd, traslado, sala de velación, cafetería y vehículo de acompañamiento.",
+      "price": "$900.000",
+      "monthly": "$23.333/mes"
+    },
+    {
+      "name": "Plan Huella",
+      "description": "Cremación digna en el Crematorio Cubillos de Pozo Almonte, con asesoramiento, tramitación integral y acompañamiento cercano.",
+      "price": "$1.290.000",
+      "monthly": "$34.167/mes"
+    },
+    {
+      "name": "Plan Recuerdo",
+      "description": "Protección completa con ataúd Mackeley, sala de velación, cafetería, condolencias virtuales y vehículo.",
+      "price": "$1.350.000",
+      "monthly": "$35.833/mes"
+    },
+    {
+      "name": "Plan Recuerdo Especial",
+      "description": "Una alternativa especial y accesible, con cobertura completa y acompañamiento cercano para su familia.",
+      "price": "$1.590.000",
+      "monthly": "$42.500/mes"
+    },
+    {
+      "name": "Plan Memoria",
+      "description": "Cobertura completa con ataúd Canciller, traslado, sala de velación y acompañamiento para su familia.",
+      "price": "$1.890.000",
+      "monthly": "$50.833/mes"
+    },
+    {
+      "name": "Plan Homenaje Integral",
+      "description": "Cobertura completa con traslado, sala de velación y vehículo de acompañamiento.",
+      "price": "$2.190.000",
+      "monthly": "$59.167/mes"
+    },
+    {
+      "name": "Plan Legado",
+      "description": "Cobertura premium con traslado, sala de velación y apoyo integral para su familia.",
+      "price": "$2.690.000",
+      "monthly": "$73.056/mes"
+    },
+    {
+      "name": "Plan Honor",
+      "description": "Nuestra propuesta de mayor distinción. Ataúd Española o Canciller en madera nativa, arreglo floral, condolencias virtuales, cafetería y todos los servicios incluidos.",
+      "price": "$3.650.000",
+      "monthly": "$99.722/mes"
+    },
+    {
+      "name": "Plan Presidencial",
+      "description": "Nuestra propuesta de máxima distinción y exclusividad. Cobertura premium superior, atención personalizada y todos los servicios incluidos.",
+      "price": "$4.390.000",
+      "monthly": "$120.278/mes"
+    }
+  ],
+  "benefits": [
+    {
+      "title": "Precio congelado",
+      "description": "Pagas el valor de hoy. Tu plan queda congelado al contratar, sin reajustes futuros."
+    },
+    {
+      "title": "Decisiones sin presión",
+      "description": "Tu familia no tiene que decidir todo en el peor momento. Ya está resuelto quién, cómo y con qué."
+    },
+    {
+      "title": "Cuotas sin interés",
+      "description": "Hasta 36 cuotas mensuales sin interés, con financiamiento flexible según tu presupuesto."
+    },
+    {
+      "title": "100% transferible",
+      "description": "Si no llega a usarse, el plan se puede traspasar a familiares directos (Padres, Hermanos, Cónyuge o Hijos)."
+    }
+  ],
+  "finalCta": {
+    "title": "¿No sabe qué plan elegir?",
+    "description": "Llámenos o escríbanos por WhatsApp. Un ejecutivo lo orientará sin compromiso para encontrar el plan que mejor se adapta a su situación y presupuesto.",
+    "whatsappHref": "https://wa.me/56990511579?text=Hola%2C+no+s%C3%A9+qu%C3%A9+plan+elegir%2C+%C2%BFme+pueden+orientar%3F"
+  },
+  "heroDescription": "Contrata hoy tu plan de previsión funeraria y protege a tu familia del gasto y la incertidumbre. Precio congelado, financiamiento flexible y atención 24/7."
+}

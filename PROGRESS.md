@@ -112,6 +112,43 @@ tapado por otros elementos (fix: Portal), z-index de header/drawer/cta-bar, favi
   `Origen`; el route ahora envía esos valores en ese orden usando cadena vacía por defecto cuando
   no vienen presentes
 
+### Página índice `/planes` + plantilla dinámica `/planes/[slug]`
+- `src/app/planes/page.tsx` — landing completa de Previsión Funeraria migrada desde
+  `_legacy-reference/planes/index.html`
+- `src/app/planes/[slug]/page.tsx` — plantilla dinámica con `generateStaticParams()` para los 9
+  planes de previsión funeraria
+- `src/components/planes/` — hero, pills de navegación, galería clickeable, servicios incluidos,
+  timeline, trust section, FAQ acordeón, cobertura, otros planes, sidebar sticky e index cards
+- `src/data/planes.ts` + `src/data/planes-content.json` — datos extendidos con tagline, cuotas,
+  financiamiento, galerías, servicios, FAQ, cobertura y CTA final exactos extraídos desde los
+  HTML de referencia
+- `public/assets/planes/` — assets locales de ataúdes y crematorio copiados para la nueva sección
+- Variantes confirmadas en data:
+  `Huella` usa galería de crematorio y omite bloque de lugar de velación en el sidebar;
+  `Tributo` usa una sola ubicación en el sidebar; los demás planes usan el patrón de 2
+  ubicaciones
+
+### Página índice `/planes-inmediatos` + plantilla dinámica `/planes-inmediatos/[slug]`
+- `src/app/planes-inmediatos/page.tsx` — landing completa de Atención Inmediata migrada desde
+  `_legacy-reference/planes-inmediatos/index.html`
+- `src/app/planes-inmediatos/[slug]/page.tsx` — plantilla dinámica con `generateStaticParams()`
+  para los 9 planes de atención inmediata
+- `src/components/planes/` — reutilización de hero, pills, galería, servicios incluidos, trust
+  section, FAQ, cobertura, otros planes, sidebar e index cards con props de variante/basePath;
+  `PlanHowItWorks` queda omitido por decisión estructural de esta sección
+- `src/components/planes/PlanImmediatePaymentOptions.tsx` — nuevo bloque de `Forma de pago` con
+  tooltip click/tap para cuota mortuoria
+- `src/data/planes.ts` — cada plan ahora incluye el nodo `inmediata` con tagline, CTA, nota de
+  precio, descripción, FAQ, cobertura, galería, opciones de pago, ubicación y mensaje de
+  WhatsApp exactos de la variante inmediata
+- Variantes confirmadas en data:
+  el hero siempre usa la categoría `Atención Inmediata`;
+  el trust section cambia solo el segundo feature a `Precio transparente`;
+  el índice inmediato oculta la línea `o desde X/mes`;
+  la cobertura inmediata se muestra sin `Camiña`;
+  `Huella` no muestra lugar de velación y `Tributo` mantiene solo `Funeraria Cubillos` en el
+  sidebar
+
 ## 🚧 En progreso
 
 Nada en curso.
@@ -137,10 +174,7 @@ Todas las secciones del Home ya están migradas:
 
 ## ⏳ Pendiente (páginas interiores)
 
-Faltan por migrar:
-- `/planes/[slug]` y `/planes-inmediatos/[slug]` — 9 slugs cada una (páginas dinámicas)
-- `/planes` y `/planes-inmediatos` — landings índice de cada categoría (el archivo de
-  `_legacy-reference/` para la de "Previsión Funeraria" ya está identificado)
+Catálogo completo migrado. No quedan páginas interiores de planes pendientes al 2026-08-11.
 
 ## 📌 Decisiones de diseño (difieren del sitio original a propósito)
 
