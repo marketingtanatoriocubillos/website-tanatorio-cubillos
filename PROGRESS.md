@@ -1,6 +1,6 @@
 # PROGRESS.md — Estado del proyecto
 
-Última actualización: 2026-08-10
+Última actualización: 2026-08-11
 
 Este archivo es el "resumen ejecutivo" del proyecto. Pégalo al inicio de cualquier chat nuevo
 (Claude o Codex) para que tenga contexto inmediato de qué está hecho, qué falta, y qué
@@ -51,22 +51,52 @@ tapado por otros elementos (fix: Portal), z-index de header/drawer/cta-bar, favi
 - `SucursalesSection.tsx` — grid de 4 sucursales con badges, datos de contacto y links a Google Maps
 - `ContactoSection.tsx` — bloque de contacto del Home con CTA inmediata y formulario funcional
   que envía a `/api/contacto`
+- `FinalCtaBand.tsx` — banda CTA final antes del footer con acceso rápido a llamada y ancla a
+  contacto
 - `ImageCarousel.tsx` — componente UI reutilizable para carruseles de imágenes, con soporte de
   autoplay opcional (`autoPlay`, `autoPlayInterval`, `autoPlayStartDelay`)
 - `src/app/api/contacto/route.ts` — API Route que reenvía formularios a Google Sheets
   (Apps Script) usando `GOOGLE_SHEETS_WEBHOOK_URL`
 - Animación de flecha (`group-hover:translate-x-1`) aplicada a todos los botones tipo `btn-arrow`
 
+### Página interior `/servicios`
+- `src/app/servicios/page.tsx` — página completa de servicios
+- `src/components/servicios/ServiciosHero.tsx` — hero interior con copy exacto de la referencia
+- `src/components/servicios/ScrollSpyNav.tsx` — nav sticky con scroll horizontal, fades laterales e
+  IntersectionObserver para resaltar la sección activa
+- `src/components/servicios/ServiceDetailSection.tsx` — componente reutilizable que renderiza las
+  12 secciones desde data tipada
+- `src/components/servicios/ServiciosFinalCta.tsx` — CTA final de orientación
+- `src/data/servicios.ts` — fuente única de verdad para pills + 12 secciones de contenido
+- Varios `ImageCarousel` con autoplay escalonado (`0ms`, `1000ms`, `2000ms`, etc.) para evitar
+  que todos avancen sincronizados
+
 ## 🚧 En progreso
 
-## ⏳ Pendiente (Home)
+Nada en curso.
 
-Falta revisar el HTML original más allá de la sección Sucursales para confirmar qué sigue.
+## ✅ Home completado
+
+Todas las secciones del Home ya están migradas:
+- `Hero`
+- `QuickAccessBar`
+- `ServiciosSection`
+- `UrgentCtaBand`
+- `PlanesSection`
+- `PrevisionSection`
+- `DiferenciadoresSection`
+- `NosotrosSection`
+- `TestimoniosCarousel`
+- `CrematorioSection`
+- `ExhumacionPromoSection`
+- `SucursalesSection`
+- `ContactoSection`
+- `FinalCtaBand`
 
 ## ⏳ Pendiente (páginas interiores)
 
-Ninguna página interior migrada todavía. El sitio original tiene:
-- `/servicios`, `/crematorio`, `/nosotros`, `/contacto`
+Faltan por migrar:
+- `/crematorio`, `/nosotros`, `/contacto`
 - `/planes/[slug]` y `/planes-inmediatos/[slug]` — 9 slugs cada una (páginas dinámicas)
 - `/planes` y `/planes-inmediatos` — landings índice de cada categoría (el archivo de
   `_legacy-reference/` para la de "Previsión Funeraria" ya está identificado)

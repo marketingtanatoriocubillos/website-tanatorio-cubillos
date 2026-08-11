@@ -33,3 +33,33 @@ export interface ContactFormPayload {
   origen: string;
   website: string;
 }
+
+export interface ServiceDetailSection {
+  id: string;
+  sectionLabel: string;
+  title: string;
+  description: string;
+  noteCard?: {
+    kicker: string;
+    lines: string[];
+  };
+  features: string[];
+  media:
+    | {
+        type: "single";
+        src: string;
+        alt: string;
+      }
+    | {
+        type: "carousel";
+        images: string[];
+        alt: string;
+      };
+  actions: Array<{
+    label: string;
+    href: string;
+    variant: "solid" | "outline";
+  }>;
+  reverse: boolean;
+  bgClass: string;
+}
