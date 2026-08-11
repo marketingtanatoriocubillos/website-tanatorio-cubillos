@@ -86,6 +86,32 @@ tapado por otros elementos (fix: Portal), z-index de header/drawer/cta-bar, favi
 - Nota pendiente: Historia y Equipo quedaron con placeholders internos controlados hasta que el
   cliente entregue más texto y fotos reales
 
+### Páginas legales y 404
+- `src/components/legal/LegalPageLayout.tsx` + `LegalSection.tsx` — layout reutilizable para
+  páginas legales con card central, encabezado compartido y tipografía consistente
+- `src/app/terminos-y-condiciones/page.tsx` — página completa migrada con las 10 secciones legales
+  y cards para el grupo de empresas
+- `src/app/politica-privacidad/page.tsx` — página completa migrada con las 10 secciones legales
+- `src/app/not-found.tsx` — 404 personalizada integrada al App Router con CTAs y links rápidos
+
+### Página interior `/sucursales`
+- `src/app/sucursales/page.tsx` — página completa migrada desde el HTML real de `_legacy-reference/sucursales/`
+- `src/components/sucursales/` — hero, breadcrumb y card reutilizable por sucursal
+- `src/data/sucursales.ts` — fuente única de verdad compartida entre `/sucursales`, Home y footer,
+  con nombres, direcciones, teléfonos, imágenes y mapas reales
+- `ImageCarousel` reutilizado sin autoplay en esta vista para evitar movimiento simultáneo en los 4
+  carruseles
+
+### Página interior `/contacto`
+- `src/app/contacto/page.tsx` — página completa de contacto migrada desde `_legacy-reference/contacto.html`
+- `src/components/contacto/` — hero, breadcrumb, cards de contacto, formulario y CTA final en
+  componentes modulares
+- `src/app/api/contacto/route.ts` — endpoint extendido para aceptar `email`, `mensaje` y
+  `sucursal` como campos opcionales sin romper el formulario del Home
+- Google Sheet: columnas `Email`, `Mensaje` y `Sucursal` ya agregadas por el usuario después de
+  `Origen`; el route ahora envía esos valores en ese orden usando cadena vacía por defecto cuando
+  no vienen presentes
+
 ## 🚧 En progreso
 
 Nada en curso.
@@ -107,15 +133,14 @@ Todas las secciones del Home ya están migradas:
 - `SucursalesSection`
 - `ContactoSection`
 - `FinalCtaBand`
+- `SucursalesSection` consolidada para leer desde `src/data/sucursales.ts`
 
 ## ⏳ Pendiente (páginas interiores)
 
 Faltan por migrar:
-- `/contacto`
 - `/planes/[slug]` y `/planes-inmediatos/[slug]` — 9 slugs cada una (páginas dinámicas)
 - `/planes` y `/planes-inmediatos` — landings índice de cada categoría (el archivo de
   `_legacy-reference/` para la de "Previsión Funeraria" ya está identificado)
-- `/terminos-y-condiciones`, `/politica-privacidad`
 
 ## 📌 Decisiones de diseño (difieren del sitio original a propósito)
 

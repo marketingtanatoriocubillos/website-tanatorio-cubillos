@@ -3,29 +3,11 @@ import Link from "next/link";
 
 import { LEGAL_LINKS, SERVICE_LINKS, SOCIAL_LINKS } from "../../data/navigation";
 import { PLANES } from "../../data/planes";
+import { SUCURSALES } from "../../data/sucursales";
 import type { FooterColumn, SocialLink } from "../../lib/types";
 import { FacebookIcon } from "../ui/icons/FacebookIcon";
 import { InstagramIcon } from "../ui/icons/InstagramIcon";
 import { WhatsAppIcon } from "../ui/icons/WhatsAppIcon";
-
-const BRANCH_DETAILS = [
-  {
-    name: "Tanatorio Cubillos – Iquique",
-    address: "Caleta Río Seco 2155, esq. Francisco Bilbao",
-  },
-  {
-    name: "Funeraria Cubillos – Iquique",
-    address: "Serrano 999, esq. Juan Martínez",
-  },
-  {
-    name: "Funeraria Cubillos – Alto Hospicio",
-    address: "Cerro Esmeralda 3636, Alto Hospicio",
-  },
-  {
-    name: "Crematorio Cubillos – Pozo Almonte",
-    address: "Aguada de Canchones s/n, Sitio 35, La Huayca",
-  },
-];
 
 const footerColumns: FooterColumn[] = [
   {
@@ -142,10 +124,13 @@ export default function Footer() {
         <div>
           <h2 className={footerHeadingClassName}>Sucursales</h2>
           <ul className="mt-4 space-y-3">
-            {BRANCH_DETAILS.map((branch) => (
-              <li key={branch.name} className="space-y-1">
+            {SUCURSALES.map((branch) => (
+              <li
+                key={`${branch.name}-${branch.cityBadge}`}
+                className="space-y-1"
+              >
                 <p className="font-heading text-[13px] font-bold text-white">
-                  {branch.name}
+                  {branch.name} – {branch.cityBadge}
                 </p>
                 <p className="font-body text-[12px] leading-5 text-white/[.55]">
                   {branch.address}

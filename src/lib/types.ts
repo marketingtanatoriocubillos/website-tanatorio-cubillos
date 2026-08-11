@@ -32,6 +32,9 @@ export interface ContactFormPayload {
   motivo: string;
   origen: string;
   website: string;
+  email?: string;
+  mensaje?: string;
+  sucursal?: string;
 }
 
 export interface ServiceDetailSection {
@@ -62,4 +65,15 @@ export interface ServiceDetailSection {
   }>;
   reverse: boolean;
   bgClass: string;
+}
+
+export interface Sucursal {
+  name: string;
+  cityBadge: string;
+  address: string;
+  phone: string;
+  homeTag?: string;
+  images: string[];
+  mapEmbedSrc: string;
+  mapLinkHref: string;
 }

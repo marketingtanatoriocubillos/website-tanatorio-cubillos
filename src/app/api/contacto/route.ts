@@ -36,12 +36,23 @@ export async function POST(request: Request) {
       return NextResponse.json({ success: false }, { status: 500 });
     }
 
+    const webhookPayload = {
+      nombre: body.nombre,
+      telefono: body.telefono,
+      motivo: body.motivo,
+      origen: body.origen,
+      email: body.email ?? "",
+      mensaje: body.mensaje ?? "",
+      sucursal: body.sucursal ?? "",
+      website: body.website,
+    } satisfies ContactFormPayload;
+
     const webhookResponse = await fetch(webhookUrl, {
       method: "POST",
       headers: {
         "Content-Type": "application/json",
       },
-      body: JSON.stringify(body),
+      body: JSON.stringify(webhookPayload),
       signal: AbortSignal.timeout(10000),
     });
 

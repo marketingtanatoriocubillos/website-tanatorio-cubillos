@@ -59,7 +59,10 @@ export default function ContactoSection() {
       [field]: value,
     }));
 
-    if ((field === "nombre" || field === "telefono") && value.toString().trim()) {
+    if (
+      (field === "nombre" || field === "telefono") &&
+      String(value ?? "").trim()
+    ) {
       setFieldErrors((currentErrors) => ({
         ...currentErrors,
         [field]: false,

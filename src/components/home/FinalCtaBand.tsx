@@ -2,7 +2,13 @@ import Link from "next/link";
 
 const PHONE_HREF = "tel:+56990511579";
 
-export default function FinalCtaBand() {
+interface FinalCtaBandProps {
+  requestCallHref?: string;
+}
+
+export default function FinalCtaBand({
+  requestCallHref = "#contacto",
+}: FinalCtaBandProps) {
   return (
     <section className="border-t border-white/10 bg-primaryLight px-4 py-[14px] sm:px-6 md:px-8 lg:px-[100px]">
       <div className="mx-auto flex max-w-[1200px] flex-col items-center justify-between gap-3 sm:flex-row sm:gap-4">
@@ -20,7 +26,7 @@ export default function FinalCtaBand() {
           </a>
 
           <Link
-            href="#contacto"
+            href={requestCallHref}
             className="inline-flex items-center rounded-full border-[1.5px] border-white/50 px-[18px] py-[7px] font-heading text-[12px] font-semibold text-white transition hover:border-white hover:bg-white/5"
           >
             Solicitar llamada
